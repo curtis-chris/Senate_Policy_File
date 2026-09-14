@@ -1,0 +1,11 @@
+---
+title: ""
+---
+
+::: {.policy-numbering .policy-start-12}
+
+12. Interpretation of Senate Actions
+
+Interpretations made by the Committee on Constitution and Bylaws shall be reported in writing to the Senate and shall be considered binding unless reversed or altered by action of the Senate. Such interpretations shall be considered binding on the university only after they have been approved by the President.
+
+:::

@@ -1,0 +1,39 @@
+---
+title: "University Policies: Emeritus Employees"
+---
+
+::: {.policy-numbering .policy-start-1}
+
+Emeritus status is a right extended to all eligible faculty, staff and administrators. Emeritus status brings with it continued affiliation with the institution and specific benefits (listed in 4.0). Emeritus status, and its accompanying benefits, have associated responsibilities. In order for emeritus status and/or benefits to continue, an emeritus employee must remain in good standing with the University.
+
+1. **Eligibility**: Employees who retire from SDSU after having served 10 or more full-time years, or the part-time equivalent, either continuously or at different times at SDSU or elsewhere in the California State University (CSU) system, are eligible for emeritus status. In addition to the length of service, either at SDSU or elsewhere within the CSU, employees must be eligible to activate their annuities from the CSU system.
+
+    1. Faculty: Emeritus status is granted at a campus, and may be conferred at more than one campus or university system. All faculty, as defined by Section 1.1. of the Bylaws, are eligible for emeritus status. Full-time appointments may be 10 or 12-month, as specified in Bylaw 1.1.1.
+
+    1. Administrators: Emeritus administrator status shall be granted by and at the pleasure of the President of the university.
+
+1. **Nomination**: At least once a semester, a list of employees who have announced their intention to retire and meet the eligibility requirements shall be distributed by the appropriate office to the appropriate Senate committee (Faculty Honors and Awards Committee and Staff Affairs Committee). The Center for Human Resources shall compile the list of retiring eligible staff, and the President’s Office (or designee) shall compile the list of retiring faculty. Committees will review the recommended names to ensure that nominated individuals meet the eligibility criteria. After finalizing the nominations, the names of nominated employees shall be sent to the Senate for consideration.
+
+    1. The Senate shall vote on these lists no later than the final meeting of that semester.
+
+    1. If eligible persons are omitted from emeritus status, they may request from the Chair of the Senate that conferral of emeritus status be considered through the established nomination process.[^fn22]
+
+1. **Conferral:** Emeritus status shall be granted by formal vote of the Senate.
+
+    1. Upon approval, Senate officers shall include the full list of emeritus employees in their Action Memo to the President. A copy of that memo shall be sent by the Senate Office to the following individuals and offices to ensure the continuation of access and timely conferral of benefits: Senior HR Director, Director of IT User Services, University Library Circulation Department Head, Director of Parking and Transportation Services, Provost, Curriculum Services (in order to update the Catalog), and the employee’s supervisor (department chair, school director, college dean, MPP, etc.).
+
+    1. The names of emeritus faculty and administrators shall be listed in the back of the Catalog and with department and school faculty in the body of the Catalog for a period of 10 years, with extension granted upon request of the faculty member. Departments are responsible for communicating with Curriculum Services the names of emeritus faculty for their department page in the Catalog.
+
+    1. The names of emeritus staff and their division or college shall be listed in the Catalog for a period of 10 years, with extension granted upon request of the staff member.
+
+    1. Human Resources shall be responsible for maintaining historic and current lists of emeritus employees, and for sharing publishable-ready lists with Curriculum Services to add to the Catalog. Curriculum Services shall annually deposit the Catalog in the University Library’s Department of Special Collections and University Archives in order to memorialize past emeritus employees.
+
+1. **Benefits**: Emeritus employees in good standing shall receive the following benefits as available and following normal procedures for allocation: (a) library privileges accorded to all employees, (b) free annual parking permits, (c) email continuation, (d) access to site licensed software suites when licensing agreements allow, and (e) identification cards indicating emeritus status. Emeritus benefits are managed by the appropriate service unit.
+
+    1. When available, emeritus employees may be granted office space and/or computer access upon the recommendation of the appropriate departmental unit (school, department, college, center).
+
+1. Emeritus employees are eligible to serve on Senate, Senate-appointed and campus ad hoc committees as appropriate.
+
+[^fn22]: This includes currently retired employees who become eligible for emeritus status under newly formed rules.
+
+:::

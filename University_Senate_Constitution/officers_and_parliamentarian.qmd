@@ -1,0 +1,17 @@
+---
+title: ""
+---
+::: {.policy-numbering .policy-start-5}
+5. Officers and Parliamentarian
+
+    1. The Chair of the Senate, who shall be the Chair of the Faculty, shall be an elected senator. The Chair shall be annually elected to office by the majority of the elected senators. The Chair shall preside at all meetings of the Senate and may call special meetings of the Senate.
+
+    2. The Vice Chair of the Senate shall be an elected senator. The Vice Chair shall be annually elected to office by the majority of the elected senators. The Vice Chair of the Senate shall preside as the Chair of  the Senate should the Chair be unable to fulfill the duties of the office.
+
+    3. The Secretary of the Senate shall be an elected senator. The Secretary shall be annually elected to office by the majority of the elected senators. The Secretary (a) shall prepare the agenda for all Senate meetings and notify all senators of these meetings; (b) shall keep roll and report in a manner prescribed by the Bylaws when, in accordance with Senate policy, a seat has become vacant through repeated absence; (c) shall maintain a complete record of Senate meetings and prepare summaries of Senate minutes; (d) shall supervise the distribution of copies of Senate resolutions and decisions to appropriate persons; (e) and shall annually compile and publish an index of Senate actions.
+
+    4. The Treasurer of the Senate shall be an elected senator. The Treasurer shall be annually elected to the office by the majority of the elected senators. The Treasurer (a) shall administer the Senate annual operating budget and oversee the financial affairs of the Senate, which includes drafting an annual budget for approval by the Senate Executive Committee and final proposed budget shall be presented to the Senate for approval by the end of the Spring semester; (b) report the state of the Senate budget at Senate and Senate Executive Committee meetings; and (c) shall act on the behalf of the Senate in meetings and serve on Senate committees that may require financial advice and oversight related to the Senate’s annual budget.
+
+    5. The Parliamentarian, who need not be a member of the Senate, shall be appointed annually and shall advise the presiding officer on parliamentary issues.
+
+:::

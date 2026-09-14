@@ -1,0 +1,23 @@
+---
+title: ""
+---
+::: {.policy-numbering .policy-start-6}
+6. Meetings and Quorum
+
+    1. Regular Meetings. The Senate shall regularly meet at least seven times during the academic year, and each academic year at least one regular Senate meeting shall be held at one of the SDSU Imperial Valley campuses.
+
+        1. A regular meeting shall be a scheduled meeting and may continue beyond one day.
+        2. The agenda of each regular meeting shall be distributed to the members of the Senate at least four working days before the meeting. 
+        3. A senator present for a portion of a meeting shall be recorded as present for the entire meeting.
+
+    2. Special Meetings. Special meetings of the Senate may be called in a manner prescribed by the Bylaws.
+
+    3. Records. The minutes of both regular and special meetings shall be made available to the university community. Complete copies of the minutes of the Senate shall be available to members of the Senate, and copies shall be distributed on request. A summary of the contents of the Senate minutes and of actions taken shall be available to all faculty members and to other CSU senates or councils. These records may be made available in electronic form and need not be stored in paper form.
+
+    4. Quorum. Two-thirds of the voting Senate membership shall constitute a quorum. Seats that are not filled are considered “vacant” and do not count for quorum.  The members present at a duly called or held meeting at which a quorum is present may continue to conduct business until the time stated for adjournment in the call of the meeting, notwithstanding the withdrawal of enough members to leave less than a quorum. If a senator is unable to attend, they may in accordance with the Bylaws appoint a substitute with the power to vote. 
+
+    5. Meetings of the Faculty. Meetings of the faculty may be held in a manner prescribed by the Bylaws.
+
+    6. Faculty Review of Senate Actions. Any action of the Senate may be reviewed at a meeting of the faculty upon a written request signed by 10 percent of the tenured and probationary faculty and submitted to the Senate Chair. Such a meeting of the faculty shall be called by the Chair within two weeks of the request.
+
+:::

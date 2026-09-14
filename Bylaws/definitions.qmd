@@ -1,0 +1,48 @@
+---
+title: ""
+---
+
+::: {.policy-numbering .policy-start-1}
+1. Definitions
+    
+    1. Faculty, defined as all members of Unit 3 in the current Collective Bargaining Agreement (CBA). Within the broader category of Faculty, the Senate identifies the following distinct subcategories: 
+
+        1. Tenured and Probationary Faculty, defined as those that hold tenured or probationary AY, 10-month, or 12-month full-time faculty appointments as professors, librarians, or student services professionals academic-related (SSP-AR). They may be department chairs or school directors, but cannot hold a full- or part-time MPP (Management Personnel Plan) appointment. 
+        2.	Contingent Faculty, defined as those holding temporary appointments to a full- or part-time lecturer, librarian, or SSP-AR position. 
+        3.	Coaching Faculty, defined as those who hold full- or part-time coaching appointments and are members of Unit 3 according to the CBA. 
+        4.	Faculty on FERP appointments and all other members of Unit 3 who are not included in 1.1.1, 1.1.2, or 1.1.3 above. 
+
+    2. Staff. Within the broader category of Staff, the Senate identifies the following distinct subcategories: 
+        1.	Non–Management Personnel Plan (non-MPP) staff. These are staff employed by SDSU who do not occupy a position classified under the CSU Management Personnel Plan. 
+        2.	Auxiliary organization staff. These are staff affiliated with SDSU but not employed by SDSU. They work for SDSU auxiliary organizations (Associated Students, Aztec Shops, Campanile Foundation, or Research Foundation). Managers as defined in Bylaws 1.3 and student employees are excluded. 
+
+    3.  Managers. Within the broader category of Managers, the Senate identifies the following distinct subcategories: 
+        1.	SDSU employees that hold a full or part time position as Management Personnel Plan (MPP) employee. This excludes Department Chairs and School Directors. 
+        2.	Management and Fair Labor Standard Act exempt supervisory personnel of auxiliary organizations.
+
+    4.	Major Academic Unit. Unless otherwise stipulated, “major academic unit” shall refer to each college, the Library, University Services (which includes Counseling and Psychological Services, Test Office, Educational Opportunity Program, and Health Services), and SDSU Imperial Valley.
+
+    5.	Ex officio members of the Senate. The following shall be ex officio members of the Senate:
+        
+        1.	Voting:
+            1.	President of the University or designee, Provost and Senior Vice President, Vice President for Research and Innovation, Vice President of Student Affairs and Campus Diversity, Associate Vice President for Faculty Advancement and Student Success, Dean of the College of Graduate Studies, and Dean of Global Campus.
+            2.	Seven students chosen by Associated Students:
+                1.	Five students from the San Diego Campus, two of the five being graduate students. Associated Students may consult the Dean of Graduate Studies when necessary according to the Bylaws of Associated Students in San Diego.
+                2.	Two students from the Imperial Valley Campus chosen by Associated Students at SDSU Imperial Valley. 
+            3.	A professor emeritus chosen by procedures specified in the Bylaws of the San Diego State University Retirement Association.
+            4.	A member of the Department of Athletics appointed by the Athletics Director.  
+            5.	The above ex officio members of the Senate have full voting rights, with the provision that they shall not vote in the elections where the Constitution specifies that only the Elected members may vote (examples: election of Senate Officers or faculty members to the Senate Executive Committee).
+        
+        2.	Non-Voting: 
+            1.	Vice President of Business and Financial Affairs;
+            2.	Vice President for University Relations and Development;
+            3.	Vice President of Information Technology
+            4.	Vice Provost for Academic Affairs; 
+            5.	Associate Vice President for Curriculum, Assessment and Accreditation;
+            6.	President or designee of each of the collective bargaining agents on campus.
+            7.	The Immediate Past Chair of the Senate may serve as a non-voting ex officio member of the Senate for one year, if qualified to serve in the Senate and not otherwise serving.
+            8.	Two individuals who are current members of the SDSU Alumni Association shall be chosen by the SDSU Alumni Association. These individuals shall be non-voting ex officio members of the Senate.
+        
+        3.	Excessive absences (as defined in Bylaws 4.0) of ex-officio senators (voting and nonvoting) shall be addressed by the Chair of the Senate.
+
+:::

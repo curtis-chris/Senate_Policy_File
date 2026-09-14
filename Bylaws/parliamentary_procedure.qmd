@@ -1,0 +1,11 @@
+---
+title: ""
+---
+
+::: {.policy-numbering .policy-start-10}
+10. Parliamentary Procedure
+
+    1.	All questions of parliamentary procedure not covered by these Bylaws shall be decided according to the latest edition of Robert’s Rules of Order Newly Revised.
+    2.	Unless objections are raised immediately following a Senate vote, the terms “unanimous” or “without dissent” may be used in the minutes when all votes are affirmative and in spite of abstentions.
+
+:::

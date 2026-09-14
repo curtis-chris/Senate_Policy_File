@@ -1,0 +1,419 @@
+---
+title: "University Policies: Facilities"
+---
+
+## Classrooms {#classrooms .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. All lecture classroom space shall be scheduled by departments or other appropriate administrative units to average 53 hours per week with an anticipated occupancy rate of 66 percent.
+
+1. The present time module (50-minute class MWF; 75-minute class TTh) for class scheduling shall accommodate classes meeting three hours per week. Normally, undergraduate classes meeting three hours per week shall conform to this time module until 3:00 p.m.; classes beginning at 3:00 p.m. or later may be scheduled at varying time modules. Classes meeting other than three hours per week shall begin on the hour.
+
+1. Administrative units may by mutual agreement exchange allocated rooms or space. A copy of the memorandum confirming any such exchanges shall be forwarded to the Associate Vice President for Academic Affairs - Enrollment or designee.
+
+:::
+
+## Responsible Use {#responsible-use .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. **Computers**
+
+    1. Computer users shall be liable for activities on their accounts. Relevant federal and state laws and university regulations shall apply. The university shall reserve the right to limit, restrict, or extend computing or communications privileges and access to its information resources.
+
+    1. Responsible Use
+
+        1. Preamble. This policy exists within a framework of state and federal laws, along with CSU and campus policies that may be related to the use of technology. The CSU has published a system-wide policy (Information Security Responsible Use Policy; https://calstate.policystat.com/policy/10593951/latest/) which applies broadly to all members of the campus community with respect to the use of CSU information assets. Where an existing law or policy applies to an activity that stems from the use of technology, that existing law or policy will be observed in conjunction with this SDSU Responsible Use Policy. The SDSU Information Security Policies and Practices (https://it.sdsu.edu/security/policies) builds on the CSU Responsible Use Policy.
+
+            The use of University information technology resources is subject to existing requirements of legal and ethical behavior within the University community. Specifically, "Campus information technology resources" may be campus computers or other devices, or use of the campus network via a non-campus owned computer or device, or use of a hosted "cloud" application or resource which is used to support the campus mission.
+
+            Electronic communications: University electronic communications are to be used to enhance and facilitate teaching, learning, scholarly research, to support academic experiences, to facilitate the effective business and administrative processes of the University, and to foster effective communications within the academic community.
+
+            Violations may result in University disciplinary action or referral to appropriate external authorities.
+
+        1. Scope of Policy. This acceptable use policy applies to all uses of University information technology (IT) resources. This includes the resources under the management or control of the Information Technology Division (ITD) or other units of San Diego State University, as well as auxiliaries e.g., Research Foundation, Aztec Shops, etc.. A "user" is defined as any individual who uses, logs into, or attempts to use or log into, an application or system; or who connects to, or attempts to connect to or traverse, a network, whether by hardware or software or both, whether on campus or from remote locations. The policy addresses the confidentiality, integrity and availability of such resources in support of the University’s missions, codifies appropriate usage and establishes the need for users to respect the rights of others and to be in compliance with other University policies, policies of external networks and resources, and all applicable federal, state and local laws and regulations.
+
+        1. Security and Privacy. The same principles of academic freedom and privacy that have long been applicable to written and spoken communications in the University community apply also to electronic information. The University cherishes the diversity of perspectives represented on this campus and, accordingly, does not condone either censorship or the unauthorized inspection of electronic files.
+
+            Freedom of thought, inquiry, and expression is a quintessential academic value. Material considered offensive to one person may not be to others and may constitute expression protected by the First Amendment of the United States Constitution. SDSU relies on the integrity and responsible use of campus technology resources by each of its members and expects adherence to the highest academic standards. Materials that violate applicable laws (e.g., child pornography, copyright infringement, etc.) or SDSU policy (e.g., sexually explicit content creating a hostile work environment, etc.) may not be accessed through or stored on campus technology resources.
+
+            Users should be aware, however, that the University cannot guarantee absolute security or privacy. Users should therefore engage in "safe computing" practices by safeguarding their accounts, and regularly changing and never sharing their passwords. Backup and recovery systems must be implemented in accordance with University disaster recovery guidelines, and all institutional systems must utilize security controls (such as multi-factor authentication) in accordance with effective practices and University policies and procedures.
+
+            Users should also be aware that their uses of University information technology resources are not completely private as the information contained will be subject to the University's obligation to respond to subpoenas or other court orders, reasonable discovery requests, university inquiries relating to alleged violations of law and/or policy, and public requests for documents pursuant to California and Federal Law. All University records are subject to public record requests, unless an expressed exception in the law recognizes the confidentiality of the material, such as the exceptions provided for student, medical, or library records.
+
+            The Public Records statute contains no general exception for documents generated by faculty or staff in the course of their employment. As a result, faculty and staff should refrain from keeping personal information on University systems, and utilize a personal email account for their personal communications. Additionally, users should be aware that University records that are otherwise subject to open records requests do not become confidential if they are created or stored on personally owned devices or in personal accounts. Hence, the absolute privacy of electronic communication cannot be guaranteed.
+
+            All users of SDSU information technology resources are advised to consider the open nature of information disseminated electronically, and should not assume any degree of privacy or restricted access to such information. Further, SDSU may inspect, capture, lock, or disclose electronic communications records without the consent of the holder of such records or the owner of the account:
+
+            a. When required by and consistent with the law;
+
+            a. When there is a substantiated reason to believe that violations of law or policy have taken place;
+
+            a. When there are compelling circumstances that limit the ability of the record holder to give permission; or
+
+            a. Under critical operational or security-related circumstances.
+
+        1. Individual Responsibilities. Access to SDSU’s information technology resources is a privilege granted to faculty, staff and students in support of their studies, instruction, research, duties as employees, official business with the University, and/or other University-sanctioned activities. Access may also be granted to emeritus faculty, staff and administrators and individuals outside of SDSU. including volunteers and contractors, for purposes consistent with the mission of the University. The University retains the right to set priorities on use of its computer and network resources and to limit recreational or personal uses when such uses could reasonably be expected to cause strain, directly or indirectly, on any computing facilities; to interfere with research, instructional, or administrative computing requirements; or to violate applicable policies or laws.
+
+            Authorized users are expected to:
+
+            - Protect information, data, and systems, and clearly and accurately identify oneself in electronic communications.
+
+            - Use computer and network resources efficiently.
+
+            - Ensure that the use of computer resources and networks is oriented toward the academic and other missions of the University.
+
+            - Ensure that default passwords are changed using strong password methodologies and prohibiting use by unregistered Users.
+
+                Examples of misuse include, but are not limited to, the activities in the following list:
+
+            - Violation of applicable Federal or State laws, CSU or Campus policies.
+
+            - Copyright infringement - reproduction or distribution of copyrighted works not according to the Copyright laws or Fair use.
+
+            - Knowingly running or installing on any computer system or network or giving another user a program intended to damage or place excessive load on a computer system or network.
+
+            - Using facilities and computer systems for commercial purposes, or personal financial gain (except where permitted by academic policy).
+
+                - Use of a University computer account to engage in consulting services, software development for private profit, advertising products/services, crypto-currency mining, and/or other commercial profit-based endeavors.
+
+            - Purposely sending electronic junk mail, phishing, or chain letters.
+
+            - Using a computer account or password that a user is not authorized to use.
+
+            - Forging or misrepresenting one’s identity, or altering or concealing the source of electronic communications, such as creating or editing an email to make it appear as if the message was sent by someone else.
+
+            - Using electronic communication (via email, listserv, chat, web conference or otherwise) to harass or intimidate others. Violations of this policy may lead to disciplinary actions, up to and including termination or expulsion, as well as revocation of access to university information technology resources.
+
+        1. Implementation/Procedural Considerations. Upon initial access and annually thereafter, users must acknowledge they have read and agree to abide by the Responsible Use Policy and applicable standards.
+
+        1. Revocation of Access. Violations of university computing policies may result in the revocation of access or the discontinuance of an account or the loss of computing privileges. Any revocation of access or loss of computing privileges for faculty, staff and administrators will be subject to and consistent with university policies relating to discipline. The revocation of access, discontinuance of an account or the loss of computing privileges for an emeritus faculty, staff, or administrator or for a non-SDSU employee, including volunteers and contractors, as a result of a violation of university computing policies will be at the discretion of the appropriate campus governing bodies. Security misuse resulting in the immediate need to revoke access will be at the discretion of the Vice President for Information Technology.
+
+            The university may also revoke access and/or discontinue an account for emeritus faculty, staff, and administrators as well as for non-SDSU employees when there is a pattern of non-use over a period of one year.
+
+    1. Legality and Enforcement
+
+        1. University policies shall not supersede federal or state laws. Illegal actions may result in prosecution.
+
+        1. Violations of university computing policies may result in the revocation of access or the discontinuance of an account or the loss of computing privileges.
+
+    1. Privacy: Computer files, electronic mail, and computing accounts shall not be absolutely private and may be subject to access by various authorized persons in compliance with the California Public Records Act.
+
+    1. Operational procedures shall be determined and periodically reviewed by the Instructional and Information Technology Committee.
+
+1. **Electronic Mail**
+
+    1. Communication through electronic mail should be encouraged and supported in the same manner as in classrooms, publications, and correspondence through standard hard copy mail. Professional codes of conduct shall prevail, and users shall adhere to standards of civil communication.
+
+    1. Email messages shall be the intellectual property of the source. Acknowledgment of the source should follow general citation guidelines.
+
+    1. The email system shall be managed like other campus communications.
+
+    1. For university business, email lists may be created. Persons may request deletion from such lists but shall otherwise know the information transmitted through such lists.
+
+    1. Faculty and staff who request email service shall have an email account established and made available for their use.
+
+    1. Administrative units shall keep the university informed about email legalities. Persons should treat email with the same caution as hard copy mail.
+
+    1. Persons lacking legitimate business purposes for obtaining access to other persons’ files or communications shall not use electronic mail and computer systems to access those files or communications.
+
+:::
+
+## Events {#events .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. When the university or its auxiliary organizations offer, sponsor, or authorize on-campus events that contribute to teaching, research, community service, fund raising, community outreach, and campus life, the university shall facilitate campus operations to support the events and to mitigate their impact upon the campus learning environment and the surrounding community. Consultation by the Vice President for Business and Financial Affairs, the Associated Students, and the sponsoring organization shall precede a final decision to hold a controversial or conflicting event.
+
+1. Major events shall be scheduled at least two months before the event date. The sponsoring event scheduler shall forward notice of a proposed event to the Events Calendar Coordinator for publication on the Campus Events Calendar. The Events Calendar Coordinator shall review and determine whether conflicts exist and whether the combination of events will adversely impact traffic, parking, safety, or other operations or facilities. Approval for each event shall require the resolution and mitigation of these adverse impacts, and the approval shall be vested with the Vice President for Business and Financial Affairs.
+
+:::
+
+## Faculty-Staff Club {#faculty-staff-club .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. The Faculty-Staff Club building shall be dedicated exclusively to the purposes of housing the Faculty-Staff Club.
+
+1. Faculty and staff who are members of the Faculty-Staff Club shall contribute regularly toward its support according to a scale determined by the Faculty-Staff Club Board of Directors.
+
+1. The Faculty-Staff Club shall be reserved for members and guests for faculty and staff meetings, dining, and recreation. The Club shall not be available for scheduled instructional purposes or institutes.
+
+:::
+
+## Kumeyaay Nations Flag {#kumeyaay-nations-flag .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+The San Diego State University Senate and the San Diego State University Administration shall adopt as an explicit and binding University Policy that the Kumeyaay Nations flag be raised, lowered, and appropriately respected on the SDSU campus.
+
+:::
+
+## Library Privileges {#library-privileges .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. **Faculty**
+
+    1. The loan period for faculty is six months with one renewal.
+
+    1. Books on loan to faculty are subject to recall at the request of faculty or of students. These requests are to be respected by the borrower, and the book returned. (If the book is vital to a current project, the library may be so advised so that special arrangements can be made.)
+
+    1. Nonprint items shall be loaned to faculty for a limited time.
+
+    1. Maximum periodical loan periods for faculty shall be (a) current (latest) issues: non-circulating, (b) unbound back issues: three days, (c) bound periodical volumes: seven days. The Dean of the Library may make exceptions to meet critical faculty needs.
+
+    1. Not more than 100 items shall be checked out to a faculty member at any one time.
+
+1. **Emeritus** **Employees****:** Privileges shall be as in sec. 1.0.
+
+1. **Graduate Students**
+
+    1. Classified graduate students, upon proper identification, may borrow books for up to three months and may check out bound periodicals for one day.
+
+    1. The borrowing privileges of Teaching Assistants and Associates shall be the same as other classified graduate students. The borrowing period may be extended by renewal or by a faculty member checking the book out for the Teaching Assistant or Associate.
+
+1. **Students**
+
+    1. The due date for books checked out from the main collection shall be 7 days before the start of that semester’s first day of finals. One renewal is allowed. Materials are subject to recall with a maximum of two weeks to return.
+
+    1. Periodicals shall not be loaned to students.
+
+1. **Fines:** Borrowers shall be responsible for overdue or recalled library materials. The fine levied for the library materials not returned within two weeks shall reflect not only the cost of the book but also the cost of processing it. Nonrefundable accounting charges shall be assessed if payroll deduction is initiated.
+
+1. **Confidentiality:** At the recommendation of Executive Board of the American Library Association, the Dean of the Library should:
+
+    1. Formally adopt a policy that specifically recognizes its circulation records to be confidential,
+
+    1. Advise librarians and library employees that such records shall not be made available to any agency of federal, state, or local government except pursuant to such process, order, or subpoena as may be authorized under the authority of, and pursuant to, federal, state, or local law relating to civil, criminal, or administrative discovery procedures or legislative investigatory power, and
+
+    1. Resist the issuance or enforcement of any such process, order, or subpoena until such time as a proper showing of good cause has been made in a court of competent jurisdiction.
+
+:::
+
+## Naming {#naming .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. The Trustees of the California State University have developed CSU policies on naming facilities (“Policy And Procedure On Naming California State University Facilities and Properties”[^fn14]), as well as colleges, schools, other academic entities, and athletic programs (“Policy And Procedures On Naming California State University Academic and Athletic Entities”[^fn15]). In these policies, the Trustees have retained for themselves the authority to name all CSU facilities and properties, i.e., all buildings; major portions of buildings; university or college streets or roads; stadium and baseball fields and other areas of major assembly or activity; plazas, malls, and other large areas of campus circulation; as well as naming all CSU colleges, schools, programs, centers, and institutes. The Trustees’ policy has stated that the naming of facilities, properties, academic entities, and athletic programs is to be reserved for fund-raising purposes only, and only under extraordinary circumstances should such entities be named without private support. The definition of “extraordinary circumstances” shall be at the sole discretion of the Board of Trustees. The policies referenced above have outlined specific procedures to be followed in proposing names to the Trustees.
+
+    These policies, along with Executive Order 713 (1999, revised 2021), “Delegation of Authority - Naming of CSU Facilities and Properties”[^fn16], and Board of Trustees Resolution RIA 11-21-10 (2021), “Delegation of Authority: Naming of CSU Academic and Athletic Programs”[^fn17], have delegated to the President of each university in the California State University System the naming of those facilities and properties, academic entities, including endowed chairs, scholarships, and athletic programs for which the Trustees have not reserved the naming rights.
+
+    The intent of the following policy is to guide the process of naming entities for which the President of San Diego State University has been delegated ultimate responsibility.
+
+1. **Principles**
+
+    1. Naming proposals may originate from administrators, faculty, staff, or students. Each proposal for naming shall be considered on its own merits. No commitment for naming shall be made before final approval of the proposed name. Confidentiality shall be maintained throughout the process of submitting a naming proposal.
+
+    1. Individuals originating proposals where the naming is associated with a philanthropic gift should seek guidance on procedures from the Office of the Vice President for University Relations and Development. When such proposals include the naming of facilities and properties, the Director of Facilities Planning should be consulted to ascertain the projected cost of the facility and to ensure that proposed design changes, including signage or other modifications, are appropriate. Non-philanthropic proposals that involve naming facilities and properties should proceed through the Campus Development Committee.
+
+    1. A name of an SDSU facility, academic entity, or project shall meet one or more of the following criteria:
+
+        1. It designates the function of a facility or entity.
+
+        1. It reflects geographic or topographical features of the facility or entity.
+
+        1. It reflects a traditional theme of the university or college.
+
+        1. It honors one or more individuals or an organization for one of more of the following reasons:
+
+            a. Unique distinction in higher education or public service,
+
+            a. Academic service to the university and a national or international reputation as a scholar or extraordinary contributions to SDSU or the CSU,
+
+            a. Administrative service to the university marked by extraordinary contributions to SDSU or the CSU,
+
+            a. Staff service to the university marked by extraordinary contributions to SDSU or the CSU, or
+
+            a. A monetary gift or gift-in-kind to the university or an income generating gift, including a gift made by another in the named individual’s behalf.
+
+    1. Substantial contributions for naming purposes shall be encouraged from both private and corporate donors. In general, the amount of the contribution should equal or exceed the “best practice” for the sort of naming envisioned, as determined by data from the Council for Advancement and Support of Education.
+
+1. **The Role of Consultation in the Naming Process.**
+
+    1. Appropriate faculty members should be consulted whenever the naming of a facility or an entity directly affects them.
+
+    1. Appropriate students should be consulted whenever the naming of a facility or an entity directly affects them. The Associated Students shall determine the procedures by which students should be consulted in the naming process.
+
+1. The Senate Executive Committee (SEC) shall act on behalf of the Senate in considering naming proposals.
+
+    1. The committee may receive such proposals at its regular meetings, or special meetings of the SEC may be called for the purpose of acting on naming proposals. The SEC shall meet in executive session to consider these proposals and shall maintain confidentiality regarding its deliberations. In reviewing naming proposals, the SEC shall consider:
+
+        a. The fit between the proposal and the criteria for naming outlined in Section 2.0 above.
+
+        a. The appropriateness of the monetary gift involved, if any, for the significance of the entity to be named.
+
+        a. The vetting process that was employed to ensure the integrity of the gift, as well as the integrity of the donor.
+
+        a. The consultation process is employed to ensure that the proposal has the support of affected faculty and/or students.
+
+    1. The SEC’s recommendation shall be transmitted confidentially to the President.
+
+[^fn14]: ICSUAM 15501.00: [https://calstate.policystat.com/policy/10764454/latest/#](https://calstate.policystat.com/policy/10764454/latest/)
+
+[^fn15]: ICSUAM 15502.00: [https://calstate.policystat.com/policy/10764433/latest/](https://calstate.policystat.com/policy/10764433/latest/)
+
+[^fn16]: [https://calstate.policystat.com/policy/10754719/latest](https://calstate.policystat.com/policy/10754719/latest)
+
+[^fn17]: [ https://calstate.policystat.com/policy/10754783/latest/](https://calstate.policystat.com/policy/10754783/latest/)
+
+:::
+
+## Noise Abatement {#noise-abatement .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. An instructor, staff member, or student hampered by noise pollution may call the Office of the Director of Public Safety to request a decibel meter reading of the sound level in his or her classroom or office. The Director of Facilities Planning, Design and Construction shall prohibit repeatedly noisy events from occurring in specific areas, order removal of noisy machinery to a more remote site, or do whatever is necessary to eliminate a persistent source of noise pollution.
+
+1. Equipment buyers in Physical Plant operations shall consider carefully the noise generated by machinery being considered for purchase. Equipment that causes excessive noise in classrooms and offices shall be phased out as rapidly as possible.
+
+1. Existing and future fixed machinery shall be installed in noise-abating acoustical environments.
+
+1. No motorcycle parking lots shall be allowed in the campus interior.
+
+1. Authorization to bring moving vehicles into the campus interior shall be regulated to avoid noise.
+
+1. Campus planning shall include noise abatement. The Campus Development Committee may consider abolishing parking in the campus interior except for service vehicles, handicapped parking, and any other essential use, and replacing paved lots with landscaping and benches.
+
+:::
+
+## Parking and Traffic {#parking-and-traffic .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. **Permit Requirements**
+
+    1. State law requires that a fee be charged for parking on university property by San Diego State University faculty, staff, and students. Every vehicle, including those with specialized license plates, not otherwise exempt, that occupies a parking stall shall display a valid permit in accordance with the regulation and time and date posted. Parking lots and structures shall have signs posted indicating when parking permits are required.
+
+    1. Faculty and staff members with valid parking permits shall park in areas designated for faculty and staff. Faculty and staff members may use student parking facilities with a Faculty/Staff permit.
+
+1. **Regulations:** The complete and current university Parking Rules and Regulations shall be published each semester in the Class Schedule.
+
+    1. General
+
+        1. The regulations of the State of California Vehicle Code and the traffic laws of the City of San Diego and San Diego State University shall govern traffic and parking on the campus of San Diego State University.
+
+        1. Title 5 of the California Code of Regulations, art. 7, subchap. 5, reads in part: “No person shall drive any vehicle, nor shall any person stop, park or leave standing, any vehicle upon the driveways, paths, or grounds of any campus, except with the permission of the president of the campus where such a vehicle is driven or parked.”
+
+        1. The garaging of vehicles shall be prohibited except for residence hall tenants with the appropriate permit to park for long term in selected residence hall areas.
+
+    1. Violations: The university shall be authorized to create and enforce parking regulations pursuant to the California Vehicle Code, sec. 21113(a). In addition, other state and local laws relative to parking and vehicle operation shall be enforced on university property.
+
+1. **Residence Hall Parking:** A special parking area may be set aside for those living in specified residence halls; these residents shall receive designated parking permits for use in that campus area only.
+
+1. **Micro-Mobility Transportation**
+
+    Micro-mobility refers to alternate modes of transportation to include skateboards, scooters, bicycles, roller skates, hoverboards or any other device whether human propelled, electric or motorized.
+
+    1. Human-propelled devices such as skateboards, roller skates, bicycles, scooters, and similar personal wheeled conveyances may only be operated on streets and designated paths. In other locations, these devices shall be walked and shall be parked in designated parking stands or areas.
+
+    1. Commercially shared electric or motorized skateboards, scooters, bicycles, or other non-human propelled micro-mobility devices may only be permitted to be used on campus if the commercial entity has a current operating contract with the university​​. All electric or motorized micro-mobility devices used to commute to campus shall be parked in zones designated for these devices.
+
+    1. It is recommended that all personal bicycles display a valid SDSU bicycle license.
+
+    1. Any micro-mobility devices attached to railings or other fixtures not designated for bicycle parking are subject to removal and impoundment.
+
+    1. Pedestrians shall have right of way at all times.
+
+    1. An 8 miles an hour speed limit shall be observed, except on curbed streets.
+
+    1. Mopeds and motor scooters, motorbikes, and motorcycles shall be operated only on curbed streets and vehicular thoroughfares. They shall not be ridden or walked elsewhere on campus but shall be parked in areas designated for motorcycles and not in bicycle stands or in areas designated for bicycles.
+
+    1. Motorized and non-motorized carts, trucks, or dollies approved for operations on campus and only officially permitted motor vehicles shall be operated in areas other than designated bike/skateboard lanes.
+
+    1. These prohibitions shall not apply to non-ambulatory persons in wheelchairs or to children in carriages or strollers.
+
+    1. These prohibitions shall be enforced in accordance with the San Diego State University Public Safety Code, Section 100 and the California Vehicle Code, Section 21113(f) (as revised to conform to this policy change).
+
+    1. The university, at principal entrances and accesses, shall post appropriate signs to campus.
+
+:::
+
+## Smoking {#smoking .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. Smoking shall be prohibited by San Diego State University as follows:
+
+    a. In buildings owned and occupied by or leased and occupied by SDSU and in SDSU vehicles,
+
+    a. In SDSU outdoor areas including parking lots,
+
+    a. In outdoor SDSU owned or leased constructed seating areas where people are likely to congregate.
+
+    a. Appropriately worded “no smoking” signs shall be placed in locations where the smoking rule is consistently violated and all public ash receptacles shall be placed in compliance with this policy.
+
+1. The distribution of free samples of tobacco products is prohibited. No tobacco-related advertising or sponsorship shall be permitted on SDSU property, at college-sponsored events or in publications produced by the college, with the exception of advertising in a newspaper or magazine that is not produced by SDSU and which is lawfully sold, bought or distributed on campus property. For the purposes of this policy, "tobacco-related" applies to the use of a tobacco brand or corporate name, trademark, logo, symbol or motto, selling message, recognizable pattern of colors or any other indicia of product identification identical to or similar to, or identifiable with, those used for any brand of tobacco products or company which manufactures tobacco products.
+
+1. The designated officials in charge of receiving complaints about employees shall be Human Resources, and for complaints about students shall be Student Affairs. Other violations shall be referred to Public Safety, unless other designated officials are named by the President to receive complaints concerning violations of this policy. This official, policy, procedures for complaints, and consequences of violations will be posted online. If needed, AB 795 allows for fines to be assessed for repeat violators, and this avenue will be explored if needed, though social enforcement shall be the primary means of enforcement.
+
+1. All members of the campus community will be informed of the smoking policy by widely distributing the campus tobacco policy on an annual basis. The tobacco policy will be clearly posted in employee and student handbooks, on the college/university website, and in other relevant publications. Key components of the policy will be also shared with parents, alumni/ae, and visitors. The general policy will be both printed and electronic formats.
+
+1. The university shall offer smoking-cessation assistance for students through Student Health Services and for faculty and staff through the Employee Assistance Program. Interested employees should contact the Center for Human Resources.
+
+1. San Diego State University auxiliary organizations shall comply with this policy.
+
+1. Smoking shall be permitted in university-sponsored theatre and dance productions and other representations where smoking is part of the script.
+
+1. Notice of this policy shall be posted at or near principal entrances to the campus and on [www.sdsu.edu.](http://www.sdsu.edu/)
+
+1. This policy shall implement Cal. Code Regs. Title 5 section 42356 and CSU Memorandum 200-26 and 2003-19 in accordance with the Education Code 89030 and 89031 and Cal. Govt Code sections 7596-7598, and Executive Order 1108 (2017).
+
+1. Smoking is defined as inhaling, exhaling, burning, or carrying a lighted or vapor-producing tobacco product. Tobacco is defined as all tobacco-derived or containing products, including, but not limited to, cigarettes (clove, bidis, kreteks), electronic cigarettes, cigars and cigarillos, hookah smoked products, and oral tobacco (spit and spitless, smokeless, chew, snuff).
+
+:::
+
+## Space and Equipment {#space-and-equipment .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. **Entitlements for Space and Equipment**
+
+    1. Instructional program needs and development of faculty potential shall be the criteria for defining entitlements for space and equipment.
+
+    1. These criteria shall be applied (a) in light of current instructional practices that have proven successful and satisfactory to faculty and students and (b) in view of untapped, yet apparent potential of each portion of the faculty for unique and creative endeavors.
+
+    1. Existing formulae not pertinent to the stated criteria shall be used only to define the barest minima of space and equipment to be provided within building programs.
+
+    1. Generally, longer-range plans of new construction shall be favored over frequent and costly programs of converting the function of a physical facility to that of another.
+
+1. **Faculty Office Space**
+
+    1. Issues regarding a faculty member’s office space allocation shall be negotiated by the faculty member, department chair or school director, and dean of the college.
+
+    1. When requested, the university shall provide available office space for tenured and probationary faculty on leave.
+
+    1. The university shall provide for storage and for handling of stored materials when tenured and probationary faculty members on leave do not have access to office space.
+
+:::
+
+## Student Official Email Address Use Policy {#student-official-email-address-use-policy .unnumbered}
+
+::: {.policy-numbering .policy-start-1}
+
+1. **University Responsibility**
+
+    1. The university shall provide each student with an email account to use as their official email. As of July 2020, the SDSU student standard for email, productivity and collaboration tools shall be the Google Suite for all existing and future students.
+
+    1. Email shall be an official means of communication with San Diego State University students.
+
+    1. A student’s official email address shall be retained as part of the student’s record. Official email addresses shall be designated as directory information under the Family Educational Rights and Privacy Act of 1974.
+
+    1. All use of official email addresses shall be consistent with FERPA and other applicable state and federal laws.
+
+    1. Official email addresses shall be used by university staff and faculty for communications that meet the academic and administrative needs of the university. Official email addresses shall not be used for external solicitations.
+
+    1. Official email addresses shall not be used for notification of service or notice of non university legal processes or proceedings.
+
+    1. If a student wishes to forward their official email to a non-San Diego State University email address, or use a third-party email service other than Gmail to manage their official email (e.g., MS Outlook, Mac Mail, etc.) they may do so, but the student shall assume all risks associated with the delivery of these communications. (The University is unable to secure third-party email services. Students should understand that forwarding their email or using a third-party email service other than Gmail presents risks to the security and privacy of this data that SDSU is unable to control.)
+
+    1. The University shall ensure that students are made aware of the Student Official Email Address Use Policy and of their responsibilities under this policy.
+
+1. **Student Responsibility**
+
+    1. It is the responsibility of the student to ensure their official email address is functional and able to receive email from San Diego State University. “Mailbox full,” “user unknown” or spam blockers are not acceptable reasons for missing university messages.
+
+    1. Each admitted and matriculated student shall be responsible for checking their official email address in order to stay current with university communications. Students shall be expected to check their official email at least once per day during the academic term, as well as once per week during the three-week periods preceding and following the academic term.
+
+:::

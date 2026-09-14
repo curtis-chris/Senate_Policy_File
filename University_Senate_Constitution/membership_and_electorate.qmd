@@ -1,0 +1,49 @@
+---
+title: ""
+---
+::: {.policy-numbering .policy-start-4}
+4.  Membership and Electorate
+
+    1.  Elected Members 
+
+        1.  Tenured and Probationary Faculty
+          
+            1.  The electorate shall consist of all tenured and probationary members of the faculty, as defined in Bylaws 1.0, representing each of the following constituencies: College of Arts and Letters, Fowler College of Business, College of Education, College of Engineering, College of Health and Human Services, College of Professional Studies and Fine Arts, College of Sciences, Imperial Valley Campus, Library, and Student Service Professionals-Academic Related (SSP-AR). 
+          
+            2.  Each of the constituencies outlined above shall elect the number of senators equivalent to nine percent (9%), rounded up to the nearest integer, of its tenured and probationary full time equivalent faculty positions. This method of apportionment shall always yield at least one elected senator for each constituency.
+          
+            3.  The term of office for Tenured and Probationary Faculty senators shall be three senate calendar years. A Tenured and Probationary Faculty senator shall serve no more than two consecutive complete terms. Service for a partial term and for terms served on the Academic Senate of The California State University (ASCSU) shall not be included in this calculation. So far as feasible, senate terms shall be arranged so that only one-third of the membership is elected annually in the spring.
+
+        2.  Contingent Faculty (12).  There shall be twelve elected Contingent Faculty senators, including one Lecturer from each of the following nine academic colleges/units: College of Arts & Letters, College of Education, College of Engineering, College of Health & Human, College of Professional Studies and Fine Arts, College of Sciences, Faculty Advancement & Student Success, Fowler College of Business and Imperial Valley; and three additional Contingent Faculty from any classification.
+          
+            1.  No more than one shall be a contingent Student Services Professionals-Academic Related (SSP-AR) faculty and no more than one shall be an assistant librarian.
+          
+            2.  The electorate shall consist of all contingent faculty members as defined in Bylaws 1.0.  
+          
+            3.  The term of office for Contingent Faculty senators shall be three senate calendar years. A Contingent Faculty senator shall serve no more than two consecutive complete terms. Service for a partial term and for terms served on the Academic Senate of The California State University (ASCSU) shall not be included in this calculation. So far as feasible, senate terms shall be arranged so that only one-third of the membership is elected annually in the spring. 
+
+        3.  Faculty elected to serve the Academic Senate of the California State University (ASCSU) (4). 
+          
+            1.  ASCSU Senators: Three (3) faculty as defined in Bylaws 1.0 shall be elected to serve in the ASCSU. Electorate shall be all faculty as defined in Bylaws 1.0. 
+          
+            2.  ASCSU Lecturer Electorate: One (1) Contingent Faculty shall be elected as ASCSU Lecturer representative and shall serve as a member of the Lecturer electorate for the ASCSU (one Contingent Faculty from each of the 23 campuses of the CSU). Electorate for this elected ASCSU Lecturer representative shall be all Contingent Faculty. 
+          
+            3.  Faculty serving as ACSU Senators or in the Lecturer Electorate shall have a minimum one-year appointment and faculty time base entitlement of at least 0.6. 
+          
+            4.  Delegates from this university to the ASCSU, whether as an ASCSU Senator or as a member of the ASCSU Lecturer Electorate, shall be considered elected members of the senate.  
+          
+            5.  The term of office for faculty elected to serve in the ASCSU is three years. If the SDSU ASCSU Lecturer representative is elected to be one of three ASCSU Lecturer Senators, at any time during their three-year term, their term within the SDSU Senate shall be revised to align with their term as a senator of the ASCSU. 
+
+        4.  Staff. (8)
+          
+            1. There shall be six non–Management Personnel Plan (MPP) staff senators as defined in Bylaws 1.2.1. One position shall be reserved for an SDSU Imperial Valley staff member. Only permanent staff are eligible to serve. The electorate shall consist of permanent and temporary non-MPP staff, including probationary staff.
+          
+            2. There shall be two SDSU Auxiliary organization staff as defined in Bylaws 1.2.2.
+        
+        5.  Managers.  There shall be two Managers. Only those in classes 1 and 2 of the Management Personnel Plan (MPP) are eligible. The electorate shall consist of all those eligible to serve.
+
+    2.  Ex officio Members. The Senate may include ex officio, voting or non-voting, representatives as members. The ex officio members of the Senate shall be designated in the Bylaws.
+
+    3.  Vacancies.  Vacancies in Senate membership shall be filled in a manner prescribed by the Bylaws.
+
+:::

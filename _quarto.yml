@@ -1,0 +1,103 @@
+project:
+  type: website  
+
+website:
+  title: "Policy File"
+  sidebar:
+    style: "docked"
+    search: true
+    collapse-level: 1
+    contents:
+      - text: Home
+        href: index.qmd
+      - section: "University Senate Constitution"
+        contents:
+        - text: "Preamble"
+          href: ./University_Senate_Constitution/preamble.qmd
+        - text: "Purpose"
+          href: ./University_Senate_Constitution/purpose.qmd
+        - text: "Duties"
+          href: ./University_Senate_Constitution/duties.qmd
+        - text: "Calendar"
+          href: ./University_Senate_Constitution/calendar.qmd
+        - text: "Membership and Electorate"
+          href: ./University_Senate_Constitution/membership_and_electorate.qmd
+        - text: "Officers and Parliamentarian"
+          href: ./University_Senate_Constitution/officers_and_parliamentarian.qmd
+        - text: "Meetings and Quorum"
+          href: ./University_Senate_Constitution/meetings_and_quorum.qmd
+        - text: "Committees of the Senate"
+          href: ./University_Senate_Constitution/committees_of_the_senate.qmd
+        - text: "Bylaws"
+          href: ./University_Senate_Constitution/bylaws.qmd
+        - text: "Amendments"
+          href: ./University_Senate_Constitution/amendments.qmd
+      - section: "Bylaws"
+        contents:
+        - text: "Definitions"
+          href: ./Bylaws/definitions.qmd
+        - text: "Committees"
+          href: ./Bylaws/committees.qmd
+        - text: "Senate Core Committee Charters"
+          href: ./Bylaws/committee_charters.qmd
+        - text: "Elections"
+          href: ./Bylaws/elections.qmd
+        - text: "Substitutes" 
+          href: ./Bylaws/substitutes.qmd
+        - text: "Vacancies" 
+          href: ./Bylaws/vacancies.qmd
+        - text: "Meetings"
+          href: ./Bylaws/meetings.qmd
+        - text: "Order of Business (Agenda)"
+          href: ./Bylaws/order_of_business.qmd
+        - text: "University Policy File"
+          href: ./Bylaws/university_policy_file.qmd
+        - text: "Parliamentary Procedure" 
+          href: ./Bylaws/parliamentary_procedure.qmd
+        - text: "Presidential Approval of Senate Actions"
+          href: ./Bylaws/presidential_approval_of_senate_actions.qmd
+        - text: "Interpretation of Senate Actions"
+          href: ./Bylaws/interpretation_of_senate_actions.qmd
+        - text: "Availability of Documents and Records"
+          href: ./Bylaws/availability_of_documents_and_records.qmd
+        - text: "Amendments"
+          href: ./Bylaws/amendments.qmd
+      - text: "Resolutions"
+        href: ./Resolutions/resolutions.qmd
+      - section: "University Policies"
+        contents:
+        - text: "Academics"
+          href: ./University_Policies/academics.qmd
+        - text: "Administration"
+          href: ./University_Policies/administration.qmd
+        - text: "Budget"
+          href: ./University_Policies/budget.qmd
+        - text: "Codes"
+          href: ./University_Policies/codes.qmd
+        - text: "Committees - Regular Senate Committees and Councils"
+          href: ./University_Policies/committees_regular_senate.qmd
+        - text: "Committees - Senate-affiliated Campus Committees"
+          href: ./University_Policies/committees_senate_affiliated.qmd
+        - text: "Facilities"
+          href: ./University_Policies/facilities.qmd
+        - text: "Faculty"
+          href: ./University_Policies/faculty.qmd
+        - text: "Organization"
+          href: ./University_Policies/organization.qmd
+        - text: "Staff"
+          href: ./University_Policies/staff.qmd
+        - text: "Students"
+          href: ./University_Policies/students.qmd
+        - text: "Emeritus Employees"
+          href: ./University_Policies/emeritus_employees.qmd
+
+format:
+  html:
+    theme:
+      - darkly
+      - brand
+    css: styles.css
+    toc: true
+    number-sections: false
+
+

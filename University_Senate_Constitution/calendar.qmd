@@ -1,0 +1,10 @@
+---
+title: ""
+---
+
+::: {.policy-numbering .policy-start-3}
+3. Calendar
+
+The Senate year shall begin on the day following the last day of the spring semester.
+
+:::

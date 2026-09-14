@@ -1,0 +1,10 @@
+---
+title: ""
+---
+
+::: {.policy-numbering .policy-start-1}
+1. Purpose 
+
+The San Diego State University Senate shall be the university’s delegate assembly. Through this assembly the faculty in concert with the administration, staff, and students shall normally exercise its powers. The Senate shall have the power to act for the faculty on matters within the scope of the faculty when the action is approved by a majority vote of the members present after a quorum has been constituted.
+
+:::
