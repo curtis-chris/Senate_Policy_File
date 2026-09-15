@@ -5,9 +5,9 @@ on:
       - main
 
 env:
-  # Forces the GitHub Actions runner to tolerate Node runtime shifts cleanly
-  ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
-  
+  # Forces the GitHub Actions runner and actions to use Node.js 24
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   build-deploy:
     runs-on: ubuntu-latest
