@@ -1,5 +1,7 @@
 ---
-title: "Preamble"
+title: ""
 ---
+
+## Preamble {#preamble .unnumbered}
 
 San Diego State University shall perform its educational mission guided by the principles of shared governance. Granted, therefore, that the Board of Trustees of The California State University invests responsibility for the operation of San Diego State University in the President of the university, the President shall be committed to formal consultation through shared governance: Accordingly, committees and councils shall advise the President either directly or through the University Senate, also called the Senate, a deliberative body that shall represent university faculty, administration, students, and staff.

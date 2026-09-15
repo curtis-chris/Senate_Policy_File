@@ -1,3 +1,9 @@
+---
+title: ""
+---
+
+## Committees of the Senate {#committees-of-the-senate .unnumbered}
+
 ::: {.policy-numbering .policy-start-7}
 
 7. Committees of the Senate
