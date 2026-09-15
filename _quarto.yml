@@ -10,28 +10,8 @@ website:
     contents:
       - text: Home
         href: index.qmd
-      - section: "University Senate Constitution"
-        contents:
-        - text: "Preamble"
-          href: ./University_Senate_Constitution/preamble.qmd
-        - text: "Purpose"
-          href: ./University_Senate_Constitution/purpose.qmd
-        - text: "Duties"
-          href: ./University_Senate_Constitution/duties.qmd
-        - text: "Calendar"
-          href: ./University_Senate_Constitution/calendar.qmd
-        - text: "Membership and Electorate"
-          href: ./University_Senate_Constitution/membership_and_electorate.qmd
-        - text: "Officers and Parliamentarian"
-          href: ./University_Senate_Constitution/officers_and_parliamentarian.qmd
-        - text: "Meetings and Quorum"
-          href: ./University_Senate_Constitution/meetings_and_quorum.qmd
-        - text: "Committees of the Senate"
-          href: ./University_Senate_Constitution/committees_of_the_senate.qmd
-        - text: "Bylaws"
-          href: ./University_Senate_Constitution/bylaws.qmd
-        - text: "Amendments"
-          href: ./University_Senate_Constitution/amendments.qmd
+      - text: "University Senate Constitution"
+        href: ./University_Senate_Constitution/constitution.qmd
       - section: "Bylaws"
         contents:
         - text: "Definitions"
