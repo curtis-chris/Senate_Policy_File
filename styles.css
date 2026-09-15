@@ -1,0 +1,296 @@
+/*
+ * SDSU University Senate Policy File
+ * Automatic policy numbering, including Safari-compatible labels.
+ *
+ * Use on a fenced div, for example:
+ *
+ *   ::: {.policy-numbering .policy-start-4}
+ *   1. Membership
+ *      1. The Senate shall ...
+ *   :::
+ *
+ * The Markdown list numbers may remain 1, 1, 1, etc.  CSS calculates the
+ * displayed 4.0, 4.1, 4.1.1, ... sequence automatically.  Only the starting
+ * section is selected by the policy-start-N class.
+ */
+
+.policy-numbering {
+  max-width: 80ch;
+  line-height: 1.55;
+  --policy-start: 0;
+  counter-reset: policy-l1 var(--policy-start);
+}
+
+/*
+ * Base list layout
+ *
+ * Generated labels use ::before instead of ::marker.  This avoids WebKit/
+ * Safari inconsistencies involving custom marker content and CSS counters.
+ */
+
+.policy-numbering ol {
+  margin-block: 0.5rem 1rem;
+  padding-inline-start: 3.75rem;
+  list-style: none;
+}
+
+.policy-numbering li {
+  position: relative;
+  margin-block: 0.55rem;
+  padding-inline-start: 0.35rem;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+.policy-numbering li::before {
+  position: absolute;
+  inset-inline-end: calc(100% + 0.45rem);
+  top: 0;
+  width: max-content;
+  white-space: nowrap;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Level 1: 1.0, 2.0, 3.0 */
+
+.policy-numbering > ol {
+  counter-reset: none;
+}
+
+.policy-numbering > ol > li {
+  counter-increment: policy-l1;
+  counter-reset: policy-l2;
+}
+
+.policy-numbering > ol > li::before {
+  content: counter(policy-l1) ".0";
+}
+
+/* Level 2: 1.1, 1.2, 1.3 */
+
+.policy-numbering > ol > li > ol {
+  padding-inline-start: 4.5rem;
+}
+
+.policy-numbering > ol > li > ol > li {
+  counter-increment: policy-l2;
+  counter-reset: policy-l3;
+}
+
+.policy-numbering > ol > li > ol > li::before {
+  content: counter(policy-l1) "." counter(policy-l2);
+}
+
+/* Level 3: 1.1.1, 1.1.2 */
+
+.policy-numbering > ol > li > ol > li > ol {
+  padding-inline-start: 5.25rem;
+}
+
+.policy-numbering > ol > li > ol > li > ol > li {
+  counter-increment: policy-l3;
+  counter-reset: policy-l4;
+}
+
+.policy-numbering > ol > li > ol > li > ol > li::before {
+  content: counter(policy-l1) "." counter(policy-l2) "." counter(policy-l3);
+}
+
+/* Level 4: 1.1.1.1, 1.1.1.2 */
+
+.policy-numbering > ol > li > ol > li > ol > li > ol {
+  padding-inline-start: 6rem;
+}
+
+.policy-numbering > ol > li > ol > li > ol > li > ol > li {
+  counter-increment: policy-l4;
+  counter-reset: policy-l5;
+}
+
+.policy-numbering > ol > li > ol > li > ol > li > ol > li::before {
+  content: counter(policy-l1) "." counter(policy-l2) "." counter(policy-l3) "." counter(policy-l4);
+}
+
+/* Level 5: 1.1.1.1.1 */
+
+.policy-numbering > ol > li > ol > li > ol > li > ol > li > ol {
+  padding-inline-start: 6.75rem;
+}
+
+.policy-numbering > ol > li > ol > li > ol > li > ol > li > ol > li {
+  counter-increment: policy-l5;
+  counter-reset: policy-l6;
+}
+
+.policy-numbering > ol > li > ol > li > ol > li > ol > li > ol > li::before {
+  content: counter(policy-l1) "." counter(policy-l2) "." counter(policy-l3) "." counter(policy-l4) "." counter(policy-l5);
+}
+
+/* Level 6: 1.1.1.1.1.1 */
+
+.policy-numbering > ol > li > ol > li > ol > li > ol > li > ol > li > ol {
+  padding-inline-start: 7.5rem;
+}
+
+.policy-numbering > ol > li > ol > li > ol > li > ol > li > ol > li > ol > li {
+  counter-increment: policy-l6;
+}
+
+.policy-numbering > ol > li > ol > li > ol > li > ol > li > ol > li > ol > li::before {
+  content: counter(policy-l1) "." counter(policy-l2) "." counter(policy-l3) "." counter(policy-l4) "." counter(policy-l5) "." counter(policy-l6);
+}
+
+/*
+ * Lettered and Roman clause lists
+ *
+ * In the QMD source, use Pandoc ordered-list attributes:
+ *
+ *   a) first clause                 or  1. first clause
+ *   b) second clause                    2. second clause
+ *
+ * together with {type="a"} when needed.  Quarto emits ol[type="a"],
+ * ol[type="A"], ol[type="i"], or ol[type="I"].
+ *
+ * These custom counters avoid Safari's incomplete handling of resets to the
+ * built-in list-item counter.
+ */
+
+.policy-numbering ol[type="a"] { counter-reset: policy-alpha-lower; }
+.policy-numbering ol[type="A"] { counter-reset: policy-alpha-upper; }
+.policy-numbering ol[type="i"] { counter-reset: policy-roman-lower; }
+.policy-numbering ol[type="I"] { counter-reset: policy-roman-upper; }
+
+.policy-numbering ol[type="a"] > li {
+  counter-increment: policy-alpha-lower;
+  counter-reset: none;
+}
+
+.policy-numbering ol[type="A"] > li {
+  counter-increment: policy-alpha-upper;
+  counter-reset: none;
+}
+
+.policy-numbering ol[type="i"] > li {
+  counter-increment: policy-roman-lower;
+  counter-reset: none;
+}
+
+.policy-numbering ol[type="I"] > li {
+  counter-increment: policy-roman-upper;
+  counter-reset: none;
+}
+
+.policy-numbering ol[type="a"] > li::before {
+  content: counter(policy-alpha-lower, lower-alpha) ")";
+}
+
+.policy-numbering ol[type="A"] > li::before {
+  content: counter(policy-alpha-upper, upper-alpha) ")";
+}
+
+.policy-numbering ol[type="i"] > li::before {
+  content: counter(policy-roman-lower, lower-roman) ")";
+}
+
+.policy-numbering ol[type="I"] > li::before {
+  content: counter(policy-roman-upper, upper-roman) ")";
+}
+
+/* Remove spacing Pandoc sometimes adds inside loose Markdown lists. */
+
+.policy-numbering li > p:first-child {
+  margin-top: 0;
+}
+
+.policy-numbering li > p:last-child {
+  margin-bottom: 0;
+}
+
+/* Avoid crowding between a provision and its subordinate list. */
+
+.policy-numbering li > ol,
+.policy-numbering li > ul {
+  margin-top: 0.65rem;
+  margin-bottom: 0.75rem;
+}
+
+/* Ordinary bullets inside policy provisions. */
+
+.policy-numbering ul {
+  padding-inline-start: 1.75rem;
+}
+
+.policy-numbering ul > li {
+  margin-block: 0.3rem;
+}
+
+.policy-numbering ul > li::before {
+  content: none;
+}
+
+/* Mobile layout */
+
+@media (max-width: 600px) {
+  .policy-numbering {
+    max-width: 100%;
+    line-height: 1.5;
+  }
+
+  .policy-numbering ol {
+    padding-inline-start: 3.25rem;
+  }
+
+  .policy-numbering ol ol {
+    padding-inline-start: 3.75rem;
+  }
+
+  .policy-numbering ol ol ol {
+    padding-inline-start: 4.5rem;
+  }
+
+  .policy-numbering li {
+    padding-inline-start: 0.15rem;
+  }
+}
+
+/* Print layout */
+
+@media print {
+  .policy-numbering {
+    max-width: none;
+  }
+
+  .policy-numbering li {
+    orphans: 2;
+    widows: 2;
+  }
+}
+
+/*
+ * Starting-section seeds.
+ *
+ * These do not hard-code individual provision numbers.  They establish only
+ * the first displayed section; every descendant number remains automatic.
+ */
+
+.policy-start-1  { --policy-start: 0; }
+.policy-start-2  { --policy-start: 1; }
+.policy-start-3  { --policy-start: 2; }
+.policy-start-4  { --policy-start: 3; }
+.policy-start-5  { --policy-start: 4; }
+.policy-start-6  { --policy-start: 5; }
+.policy-start-7  { --policy-start: 6; }
+.policy-start-8  { --policy-start: 7; }
+.policy-start-9  { --policy-start: 8; }
+.policy-start-10 { --policy-start: 9; }
+.policy-start-11 { --policy-start: 10; }
+.policy-start-12 { --policy-start: 11; }
+.policy-start-13 { --policy-start: 12; }
+.policy-start-14 { --policy-start: 13; }
+.policy-start-15 { --policy-start: 14; }
+.policy-start-16 { --policy-start: 15; }
+.policy-start-17 { --policy-start: 16; }
+.policy-start-18 { --policy-start: 17; }
+.policy-start-19 { --policy-start: 18; }
+.policy-start-20 { --policy-start: 19; }
