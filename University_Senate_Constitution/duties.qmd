@@ -1,9 +1,11 @@
 ---
 title: ""
 ---
+## Duties
 
 ::: {.policy-numbering .policy-start-2}
-## Duties
+
+1. Duties
 
     1. The Senate shall consider policies with respect to the general welfare of the university. It shall review established policies, consider new policies, and study matters of concern to the students or faculty members.
     
