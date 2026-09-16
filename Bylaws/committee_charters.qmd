@@ -4,7 +4,7 @@ title: ""
 
 ## 3. Senate Executive Committee and Senate Core Committees: Charters {#senate-executive-committee-and-senate-core-committees-charters .unnumbered}
 
-### 3.1 Senate Executive Committee {#senate-executive-committee .unnumbered}
+### 3.1  Senate Executive Committee {#senate-executive-committee .unnumbered}
 
 ::: {.policy-numbering .policy-start-1}
 
@@ -46,7 +46,7 @@ title: ""
 
 :::
 
-### 3.2 Committee on Academic Policy and Planning {#committee-on-academic-policy-and-planning .unnumbered}
+### 3.2  Committee on Academic Policy and Planning {#committee-on-academic-policy-and-planning .unnumbered}
 
 ::: {.policy-numbering .policy-start-1}
 
@@ -84,7 +84,7 @@ title: ""
 
 :::
 
-### 3.4 Committee on Faculty Affairs {#committee-on-faculty-affairs .unnumbered}
+### 3.4  Committee on Faculty Affairs {#committee-on-faculty-affairs .unnumbered}
 
 ::: {.policy-numbering .policy-start-1}
 
@@ -150,7 +150,7 @@ title: ""
 
 :::
 
-### 3.6 Committee on Constitution and Bylaws {#committee-on-constitution-and-bylaws .unnumbered}
+### 3.6  Committee on Constitution and Bylaws {#committee-on-constitution-and-bylaws .unnumbered}
 
 ::: {.policy-numbering .policy-start-1}
 
@@ -192,7 +192,7 @@ title: ""
 
 :::
 
-### 3.8 Committee on Diversity, Equity, and Inclusion {#committee-on-diversity-equity-and-inclusion .unnumbered}
+### 3.8  Committee on Diversity, Equity, and Inclusion {#committee-on-diversity-equity-and-inclusion .unnumbered}
 
 ::: {.policy-numbering .policy-start-1}
 
@@ -220,7 +220,7 @@ title: ""
 
 :::
 
-### 3.9 Graduate Council {#graduate-council .unnumbered}
+### 3.9  Graduate Council {#graduate-council .unnumbered}
 
 ::: {.policy-numbering .policy-start-1}
 
@@ -268,7 +268,7 @@ title: ""
 
 :::
 
-### 3.10 Undergraduate Council {#undergraduate-council .unnumbered}
+### 3.10  Undergraduate Council {#undergraduate-council .unnumbered}
 
 ::: {.policy-numbering .policy-start-1}
 
@@ -316,7 +316,7 @@ title: ""
 
 :::
 
-### 3.11 Lecturer Affairs Committee {#lecturer-affairs-committee .unnumbered}
+### 3.11  Lecturer Affairs Committee {#lecturer-affairs-committee .unnumbered}
 
 ::: {.policy-numbering .policy-start-1}
 
@@ -426,7 +426,7 @@ title: ""
 
 :::
 
-### 3.13 Sustainability Committee {#sustainability-committee .unnumbered}
+### 3.13  Sustainability Committee {#sustainability-committee .unnumbered}
 
 ::: {.policy-numbering .policy-start-1}
 
