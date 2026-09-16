@@ -78,6 +78,7 @@ format:
       - brand
     css: styles.css
     toc: true
+    toc-depth: 4
     number-sections: false
 
 

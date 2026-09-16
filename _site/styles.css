@@ -294,3 +294,25 @@
 .policy-start-18 { --policy-start: 17; }
 .policy-start-19 { --policy-start: 18; }
 .policy-start-20 { --policy-start: 19; }
+
+/*
+ * Headings placed inside policy list entries.
+ * Quarto uses these to construct "On this page."
+ */
+
+.policy-numbering .policy-toc-heading {
+  margin: 0 0 0.35rem 0;
+  padding: 0;
+  border-bottom: none;
+
+  font-size: inherit;
+  line-height: inherit;
+  font-weight: 700;
+  color: inherit;
+}
+
+/* Prevent Quarto's heading-anchor icon from changing the line height. */
+
+.policy-numbering .policy-toc-heading .anchorjs-link {
+  font-size: inherit;
+}
