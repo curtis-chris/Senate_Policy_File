@@ -296,25 +296,127 @@
 .policy-start-20 { --policy-start: 19; }
 
 /*
- * Headings placed inside policy list entries.
- * Quarto uses these to construct "On this page."
+ * Hybrid policy numbering:
+ * headings produce N.0;
+ * nested ordered lists produce N.1, N.1.1, etc.
  */
 
-.policy-numbering .policy-toc-heading {
-  margin: 0 0 0.35rem 0;
-  padding: 0;
-  border-bottom: none;
+.policy-hybrid {
+  --policy-start: 0;
 
-  font-size: inherit;
-  line-height: inherit;
-  font-weight: 700;
-  color: inherit;
+  counter-reset:
+    policy-heading var(--policy-start)
+    policy-l2
+    policy-l3
+    policy-l4;
+
+  max-width: 80ch;
+  line-height: 1.55;
 }
 
-/* Prevent Quarto's heading-anchor icon from changing the line height. */
+/*
+ * Titled major provisions: 4.0, 5.0, etc.
+ */
 
-.policy-numbering .policy-toc-heading .anchorjs-link {
-  font-size: inherit;
+.policy-hybrid > .policy-heading {
+  counter-increment: policy-heading;
+  counter-reset: policy-l2 policy-l3 policy-l4;
+
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  border-bottom: none;
+}
+
+.policy-hybrid > .policy-heading::before {
+  content: counter(policy-heading) ".0 ";
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/*
+ * Remove ordinary browser list markers.
+ */
+
+.policy-hybrid ol {
+  list-style: none;
+  margin-block: 0.5rem 1rem;
+  padding-inline-start: 4.5rem;
+}
+
+.policy-hybrid li {
+  position: relative;
+  margin-block: 0.55rem;
+  padding-inline-start: 0.35rem;
+  overflow-wrap: break-word;
+  hyphens: auto;
+}
+
+.policy-hybrid li::before {
+  position: absolute;
+  inset-inline-end: calc(100% + 0.45rem);
+  width: max-content;
+  white-space: nowrap;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/*
+ * First list level beneath a heading: 4.1, 4.2, etc.
+ */
+
+.policy-hybrid > ol > li {
+  counter-increment: policy-l2;
+  counter-reset: policy-l3;
+}
+
+.policy-hybrid > ol > li::before {
+  content:
+    counter(policy-heading) "."
+    counter(policy-l2);
+}
+
+/*
+ * Second list level: 4.1.1, 4.1.2, etc.
+ */
+
+.policy-hybrid > ol > li > ol > li {
+  counter-increment: policy-l3;
+  counter-reset: policy-l4;
+}
+
+.policy-hybrid > ol > li > ol > li::before {
+  content:
+    counter(policy-heading) "."
+    counter(policy-l2) "."
+    counter(policy-l3);
+}
+
+/*
+ * Third list level: 4.1.1.1, 4.1.1.2, etc.
+ */
+
+.policy-hybrid > ol > li > ol > li > ol > li {
+  counter-increment: policy-l4;
+}
+
+.policy-hybrid > ol > li > ol > li > ol > li::before {
+  content:
+    counter(policy-heading) "."
+    counter(policy-l2) "."
+    counter(policy-l3) "."
+    counter(policy-l4);
+}
+
+/*
+ * Prevent Pandoc's loose-list paragraphs from adding unwanted spacing.
+ */
+
+.policy-hybrid li > p:first-child {
+  margin-top: 0;
+}
+
+.policy-hybrid li > p:last-child {
+  margin-bottom: 0;
 }
 
 /* Retain description metadata but do not display it in the page title block. */

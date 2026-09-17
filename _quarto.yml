@@ -88,8 +88,7 @@ format:
     css: styles.css
     toc: true
     toc-depth: 4
-    number-sections: true
-    number-depth: 5
+    number-sections: false
 
 language:
   search-text-placeholder: "Search the Policy File"

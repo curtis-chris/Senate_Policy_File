@@ -8,36 +8,29 @@ toc: true
 
 San Diego State University shall perform its educational mission guided by the principles of shared governance. Granted, therefore, that the Board of Trustees of The California State University invests responsibility for the operation of San Diego State University in the President of the university, the President shall be committed to formal consultation through shared governance: Accordingly, committees and councils shall advise the President either directly or through the University Senate, also called the Senate, a deliberative body that shall represent university faculty, administration, students, and staff.
 
-## Purpose {#purpose .unnumbered}
+::: {.policy-hybrid .policy-start-1}
 
-::: {.policy-numbering .policy-start-1}
-1. Purpose 
+## Purpose {#purpose .policy-heading}
 
 The San Diego State University Senate shall be the university’s delegate assembly. Through this assembly the faculty in concert with the administration, staff, and students shall normally exercise its powers. The Senate shall have the power to act for the faculty on matters within the scope of the faculty when the action is approved by a majority vote of the members present after a quorum has been constituted.
 
-:::
+## Duties {#duties .policy-heading}
 
-## Duties {#duties .unnumbered}
+1. The Senate shall consider policies with respect to the general welfare of the university. It shall review established policies, consider new policies, and study matters of concern to the students or faculty members.
 
-::: {.policy-numbering .policy-start-2}
+2. It shall formulate educational policy, including admissions, curricula, and criteria for the granting of degrees. It shall analyze established and proposed policies of instruction and consider variations in policy in exceptional cases.
 
-1. Duties
+3. It shall advise the President in the selection of administrative personnel.
 
-    1. The Senate shall consider policies with respect to the general welfare of the university. It shall review established policies, consider new policies, and study matters of concern to the students or faculty members.
-    
-    2. It shall formulate educational policy, including admissions, curricula, and criteria for the granting of degrees. It shall analyze established and proposed policies of instruction and consider variations in policy in exceptional cases.
-    
-    3. It shall advise the President in the selection of administrative personnel.
-    
-    4. It shall maintain adequate communication within the university community. Any member of the university community may request a member of the Senate to transmit to the Senate for discussion and possible action topics coming under the jurisdiction of the Senate.
-    
-    5. It shall appoint Senate and Senate-appointed university committees. It shall establish rules and procedures for Senate committees and shall establish procedures for the Senate.
-    
-    6. The ultimate authority to recommend approval of candidates for graduation shall reside with the tenured and probationary faculty. Following formal advice of the tenured and probationary faculty, only the members of the Senate who are elected as tenured and probationary faculty shall vote in the matter of approving the list of candidates for graduation.
+4. It shall maintain adequate communication within the university community. Any member of the university community may request a member of the Senate to transmit to the Senate for discussion and possible action topics coming under the jurisdiction of the Senate.
+
+5. It shall appoint Senate and Senate-appointed university committees. It shall establish rules and procedures for Senate committees and shall establish procedures for the Senate.
+
+6. The ultimate authority to recommend approval of candidates for graduation shall reside with the tenured and probationary faculty. Following formal advice of the tenured and probationary faculty, only the members of the Senate who are elected as tenured and probationary faculty shall vote in the matter of approving the list of candidates for graduation.
 
 :::
 
-## Calendar {#calendar .unnumbered}
+## Calendar {#calendar}
 
 ::: {.policy-numbering .policy-start-3}
 3. Calendar
@@ -46,7 +39,7 @@ The Senate year shall begin on the day following the last day of the spring seme
 
 :::
 
-## Membership and Electorate {#membership-and-electorate .unnumbered}
+## Membership and Electorate {#membership-and-electorate}
 
 ::: {.policy-numbering .policy-start-4}
 4.  Membership and Electorate
@@ -95,7 +88,7 @@ The Senate year shall begin on the day following the last day of the spring seme
 
 :::
 
-## Officers and Parliamentarian {#officers-and-parliamentarian .unnumbered}
+## Officers and Parliamentarian {#officers-and-parliamentarian}
 
 ::: {.policy-numbering .policy-start-5}
 5. Officers and Parliamentarian
@@ -112,7 +105,7 @@ The Senate year shall begin on the day following the last day of the spring seme
 
 :::
 
-## Meetings and Quorum {#meetings-and-quorum .unnumbered}
+## Meetings and Quorum {#meetings-and-quorum}
 
 ::: {.policy-numbering .policy-start-6}
 6. Meetings and Quorum
@@ -135,7 +128,7 @@ The Senate year shall begin on the day following the last day of the spring seme
 
 :::
 
-## Committees of the Senate {#committees-of-the-senate .unnumbered}
+## Committees of the Senate {#committees-of-the-senate}
 
 ::: {.policy-numbering .policy-start-7}
 
@@ -146,7 +139,7 @@ The Senate year shall begin on the day following the last day of the spring seme
 
 :::
 
-## Bylaws {#bylaws .unnumbered}
+## Bylaws {#bylaws}
 
 ::: {.policy-numbering .policy-start-8}
 8. Bylaws
@@ -155,7 +148,7 @@ The Senate shall be responsible for constructing its own rules of operating proc
 
 :::
 
-## Amendments {#amendments .unnumbered}
+## Amendments {#amendments}
 
 ::: {.policy-numbering .policy-start-9}
 9. Amendments
