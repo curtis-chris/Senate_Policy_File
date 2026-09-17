@@ -1,10 +1,14 @@
 ---
-title: "6. Vacancies"
+title: ""
 description: "How vacancies are defined and addressed in the Bylaws."
 toc: false
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-1"
 ---
 
-::: {.policy-numbering .policy-start-1}
+## Vacancies {#vacancies .policy-heading}
 1. Determination
 
     1. Vacancies for elected SDSU Senators, including ASCSU Academic Senators, occur when the member meets the criteria in Bylaws 4.0.
@@ -52,5 +56,3 @@ toc: false
     1. Should the Chair be unable to serve the full term, the Vice Chair shall become the Chair and an election shall be held to choose a replacement Vice Chair.
 
     1. Should the Vice Chair, Secretary or Treasurer of the Senate be unable to serve the full term, an election shall be held to choose a replacement.
-
-:::

@@ -1,11 +1,14 @@
 ---
-title: "10. Parlimentary Procedure"
+title: ""
 description: "The policies and procedures for parliamentary procedure of the University Senate."
 toc: false
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-10"
 ---
 
-::: {.policy-numbering .policy-start-1}
+## Parliamentary Procedure {#parliamentary-procedure .policy-heading}
+
 1.	All questions of parliamentary procedure not covered by these Bylaws shall be decided according to the latest edition of Robert’s Rules of Order Newly Revised.
 2.	Unless objections are raised immediately following a Senate vote, the terms “unanimous” or “without dissent” may be used in the minutes when all votes are affirmative and in spite of abstentions.
-
-:::

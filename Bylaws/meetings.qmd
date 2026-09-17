@@ -1,10 +1,15 @@
 ---
-title: "7. Meetings"
+title: ""
 description: "The policies and procedures for meetings of the University Senate."
 toc: false
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-7"
 ---
 
-::: {.policy-numbering .policy-start-1}
+## Meetings {#meetings .policy-heading}
+
 1. Meetings of the Senate
 
     1. The Senate shall serve and meet as necessary during the summer.
@@ -38,5 +43,3 @@ toc: false
 1. The conduct, frequency, and agendas of Senate committees shall be determined by those committees.
 
 1. Senate business shall have priority over class scheduling. Senators’ class schedules shall permit their attendance at Senate meetings from 2:00 to 5:30 PM on Tuesdays and Thursdays.
-
-:::

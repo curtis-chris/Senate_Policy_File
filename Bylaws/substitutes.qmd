@@ -1,10 +1,13 @@
 ---
-title: "5. Substitutes"
+title: ""
 description: "The policies and procedures for substitutes of the University Senate."
 toc: false
----
 
-::: {.policy-numbering .policy-start-1}
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-5"
+---
+## Substitutes {#substitutes .policy-heading}
 1. Senators and members of Senate and Senate-appointed committees may appoint a substitute if they cannot attend a meeting, unless specified otherwise.
 
     1. A substitute serves for a single meeting.
@@ -32,5 +35,3 @@ toc: false
     1. Committee members appointing substitutes for a committee meeting shall notify the committee chair in writing as soon as is reasonably possible.
 
     1. ASCSU Academic Senators appointing “Alternates” shall notify the appropriate member of the Academic Senate. ASCSU Academic Senators appointing a substitute for a Senate Executive Committee or Senate meeting shall notify the Senate Officers in writing via established procedure as soon as is reasonably possible.
-
-:::

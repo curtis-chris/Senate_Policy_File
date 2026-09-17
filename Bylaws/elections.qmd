@@ -2,9 +2,14 @@
 title: "4. Elections"
 description: "The policies and procedures for elections of the University Senate."
 toc: false
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-4"
 ---
 
-::: {.policy-numbering .policy-start-1}
+## Elections {#elections .policy-heading}
+
 1. General Procedures
 
     1. All nominations and elections for which the Committee on Committees and Elections is responsible shall be by secret ballot.
@@ -96,5 +101,3 @@ toc: false
     1. Nominations shall be made by petition endorsed by 10 staff for placement on the selection ballot. The period for submitting these requests shall be not less than two nor more than five weeks.
 
     1. To conduct the election, the Committee on Committees and Elections shall prepare a ballot with the names of all nominees in an order determined by lot. The electorate shall include all non-MPP staff, including probationary staff. The staff member with the highest vote count shall be elected.
-
-:::

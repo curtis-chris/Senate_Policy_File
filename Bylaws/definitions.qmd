@@ -1,10 +1,17 @@
 ---
-title: "1. Definitions"
+title: ""
 description: "The definitions of key terms used in the Bylaws."
-toc: false
+toc: true
+toc-location: right
+toc-depth: 3
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-1"
 ---
 
-::: {.policy-numbering .policy-start-1}
+## Definitions {#definitions .policy-heading}
+
 1. Faculty, defined as all members of Unit 3 in the current Collective Bargaining Agreement (CBA). Within the broader category of Faculty, the Senate identifies the following distinct subcategories: 
 
     1. Tenured and Probationary Faculty, defined as those that hold tenured or probationary AY, 10-month, or 12-month full-time faculty appointments as professors, librarians, or student services professionals academic-related (SSP-AR). They may be department chairs or school directors, but cannot hold a full- or part-time MPP (Management Personnel Plan) appointment. 
@@ -44,5 +51,3 @@ toc: false
         8.	Two individuals who are current members of the SDSU Alumni Association shall be chosen by the SDSU Alumni Association. These individuals shall be non-voting ex officio members of the Senate.
     
     3.	Excessive absences (as defined in Bylaws 4.0) of ex-officio senators (voting and nonvoting) shall be addressed by the Chair of the Senate.
-
-:::

@@ -1,10 +1,14 @@
 ---
-title: "9. University Policy File"
+title: ""
 description: "How the University Policy File is defined and maintained."
 toc: false
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-9"
 ---
 
-::: {.policy-numbering .policy-start-1}
+## University Policy File {#university-policy-file .policy-heading}
 1. The Senate shall establish and maintain a University Policy File, containing the policies and regulations adopted by the Senate and approved by the President, and various references to executive orders and legislative codes.
 
 2.	The Secretary of the Senate shall review such additions and changes as are adopted by the Senate and approved by the President for the Policy File and shall reword or reorganize, without substantive change, such portions as are necessary to conform to the standard format of the Policy File. The Secretary of the Senate, with advice from the Committee on Constitution and Bylaws, shall ensure the accuracy of the Policy File.
@@ -12,5 +16,3 @@ toc: false
 3.	Printed copies of the Policy File shall be distributed upon request to the Secretary of the Senate. A full copy of the Policy File shall be maintained on the Senate Website.
 
 4.	The language of the Policy File shall clearly and concisely describe or narrate prescriptive or prohibitive policies and procedures. It may include the purposes for policies or procedures but shall avoid histories, contexts, and motivations. ``Shall” or “shall not” shall indicate prescription or prohibition; “may” shall indicate option or ability; “should” shall indicate advice or suggestion.
-
-:::

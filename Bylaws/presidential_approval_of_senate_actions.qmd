@@ -1,10 +1,14 @@
 ---
-title: "11. Presidential Approval of Senate Actions"
+title: ""
 description: "The policies and procedures for presidential approval of Senate actions."
 toc: false
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-11"
 ---
 
-::: {.policy-numbering .policy-start-1}
+## Presidential Approval of Senate Actions {#presidential-approval-of-senate-actions .policy-heading}
 1.  Draft minutes of Senate meetings where any official Senate action is taken shall be delivered to the President within fourteen (14) calendar days of the conclusion of the Senate meeting. 
 
 2.	Within thirty (30) calendar days of receiving the Senate Minutes, the President shall respond in writing to indicate approval, rejection, or postpone a decision on an action item. This written response is referred to as a Presidential Action Memo. 
@@ -22,5 +26,3 @@ toc: false
 3.	The Senate Chair, or their designee, shall forward a copy of the President’s Action-Memo to all Vice Presidents, Human Resources Director (for emeritus status processing), Vice Chair of the Senate (for referrals updates), Secretary of the Senate (for policy file updates), SEC members, Senate Chairs, as well as to any other person/department/unit whose work may be impacted by the Senate action. 
 
 4.  The Senate Chair, or designee, shall ensure that the President is informed promptly by suitable means of Senate actions that would require implementation in fewer than 30 days after Senate action, in order that such legislation not be unduly delayed.
-
-:::
