@@ -1,6 +1,6 @@
 ---
 title: "Senate Executive Committee and Senate Core Committees: Charters"
-description: "The charters of the Core Senate Committees."
+description: "The charters of the Core Senate Committees.  Establishes membership, function, duties, quorum requirements, and reporting requirements for each committee."
 toc: true
 ---
 
