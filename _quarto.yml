@@ -90,4 +90,7 @@ format:
     toc-depth: 4
     number-sections: false
 
+language:
+  search-text-placeholder: "Search the Policy File"
+
 
