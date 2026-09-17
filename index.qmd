@@ -1,5 +1,7 @@
 ---
 title: "SDSU University Senate Policy File"
+description: "This is the San Diego State University Published University Senate Policy File."
+toc: false
 ---
 
 This is the San Diego State University Published University Senate Policy File.

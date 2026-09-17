@@ -1,5 +1,7 @@
 ---
 title: "Vacancies"
+description: "How vacancies are defined and addressed in the Bylaws."
+toc: false
 ---
 
 ::: {.policy-numbering .policy-start-6}

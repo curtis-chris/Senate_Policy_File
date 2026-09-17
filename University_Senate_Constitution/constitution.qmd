@@ -1,5 +1,7 @@
 ---
-title: ""
+title: "Constitution"
+description: "The Constitution of the San Diego State University Senate"
+toc: true
 ---
 
 ## Preamble {#preamble .unnumbered}
