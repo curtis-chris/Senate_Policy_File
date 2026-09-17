@@ -1,12 +1,18 @@
 ---
-title: "3. Senate Executive Committee and Senate Core Committees: Charters"
+title: ""
 description: "The charters of the Core Senate Committees.  Establishes membership, function, duties, quorum requirements, and reporting requirements for each committee."
 toc: true
+toc-location: right
+toc-depth: 3
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-3"
 ---
 
-### 3.1  Senate Executive Committee {#senate-executive-committee .unnumbered}
+## Senate Executive Committee and Senate Core Committees: Charters {#senate-executive-committee-and-senate-core-committees-charters .policy-heading}
 
-::: {.policy-numbering .policy-start-1}
+### Senate Executive Committee {#senate-executive-committee .policy-heading}
 
 1. Membership (24): The Senate Executive Committee shall consist of 21 ex officio members and three elected members.
 
@@ -44,11 +50,7 @@ toc: true
 
     1. The Senate Executive Committee shall be censured for its actions by a two-thirds majority vote of the Senate present and voting.
 
-:::
-
-### 3.2  Committee on Academic Policy and Planning {#committee-on-academic-policy-and-planning .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Academic Policy and Planning {#committee-on-academic-policy-and-planning .policy-heading}
 
 1. Membership (18)
 
@@ -58,11 +60,7 @@ toc: true
 
 1. Functions: The Committee shall consider and make recommendations to the Senate and, within policy guidelines established by the Senate, to appropriate administrative officers concerning the following: (a) issues of academic philosophy, standards, and conduct; appropriateness of present and proposed programs, degrees, majors, options, and concentrations; (b) faculty-student relations; (c) the governance of the university; and (d) other matters of academic policy. All such recommendations made to administrative officers without prior Senate approval shall be submitted to the next meeting of the Senate for its consideration.
 
-:::
-
-### 3.3 Committee on University Resources and Planning {#committee-on-university-resources-and-planning .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on University Resources and Planning {#committee-on-university-resources-and-planning .policy-heading}
 
 1. Membership (17)
 
@@ -82,11 +80,7 @@ toc: true
 
     1. All recommendations made to administrative officers without prior Senate approval shall be submitted to the next meeting of the Senate following the recommendation for the consideration of the Senate. The Committee shall inform faculty and students about resource issues by providing information reports to the Senate.
 
-:::
-
-### 3.4  Committee on Faculty Affairs {#committee-on-faculty-affairs .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Faculty Affairs {#committee-on-faculty-affairs .policy-heading}
 
 1. Membership (15):
 
@@ -96,11 +90,7 @@ toc: true
 
 1. Functions: In conformance with the Unit 3 faculty Collective Bargaining Agreement (CBA), the Committee shall consider matters that involve particularly the individual or collective relationship of faculty to the university. Among its considerations shall be policies concerning the selection and evaluation of faculty, e.g., academic tenure, promotions, sabbaticals, academic privilege, and separation from the university.
 
-:::
-
-### 3.5 Committee on Committees and Elections {#committee-on-committees-and-elections .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Committees and Elections {#committee-on-committees-and-elections .policy-heading}
 
 1. Membership (16):
 
@@ -148,11 +138,7 @@ toc: true
 
     1. The Committee shall conduct all referenda to amend the Constitution.
 
-:::
-
-### 3.6  Committee on Constitution and Bylaws {#committee-on-constitution-and-bylaws .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Constitution and Bylaws {#committee-on-constitution-and-bylaws .policy-heading}
 
 1. Membership (10):
 
@@ -172,11 +158,7 @@ toc: true
 
     1. The Committee shall consider each year, as may be necessary, revision of the list of Senate and Senate-appointed university committees and of the membership and functions of each committee. It shall present its recommendations to the Senate in the first Senate meeting held after April 1.
 
-:::
-
-### 3.7 Undergraduate Curriculum Committee {#undergraduate-curriculum-committee .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Undergraduate Curriculum Committee {#undergraduate-curriculum-committee .policy-heading}
 
 1. Membership (13): Provost and Senior Vice President or designee, Associate Vice President for Curriculum, Assessment and Accreditation or designee, one representative from each college, the Library, and SDSU Imperial Valley selected by the Committee on Committees and Elections, and two students named in accordance with procedures approved by the Associated Students.
 
@@ -190,11 +172,7 @@ toc: true
 
     1. A person, department, dean, or college curriculum committee may request the Committee to review a decision on a curriculum proposal. The Committee may agree to review the matter and inform all interested parties of the decision to review and of the date set for the review, or the Committee may decide not to review and promptly inform the appellant of its decision.
 
-:::
-
-### 3.8  Committee on Diversity, Equity, and Inclusion {#committee-on-diversity-equity-and-inclusion .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Diversity, Equity, and Inclusion {#committee-on-diversity-equity-and-inclusion .policy-heading}
 
 1. Membership (23):
 
@@ -218,11 +196,7 @@ toc: true
 
     1. Additional duties of the Committee shall be: (a) to advise the President regarding the university’s conformity or potential lack thereof with California State University policies and with legislation on nondiscrimination and equal opportunity in admissions and employment, (b) to recommend policies and procedures to recruit students for matriculation and to retain students for graduation, (c) to work with Enrollment Services, diverse student organizations, and interested community persons and groups to coordinate activities to enhance the recruitment of diverse students, (d) to review and assist in coordination of programs for advising and mentoring diverse students, (e) to assist departments in reviewing and modifying their curricula in order to incorporate multicultural materials, (f) to promote faculty and staff involvement in addressing the educational needs of diverse students, (g) to disseminate information concerning funding for equity programs within the university, (h) to advise the Office of Employee Relations and Compliance and the Chief Diversity Officer regarding policies, procedures, and outcomes of the university’s diversity programs.
 
-:::
-
-### 3.9  Graduate Council {#graduate-council .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Graduate Council {#graduate-council .policy-heading}
 
 1. Representing the interests of the university in graduate studies, the Graduate Council shall be responsible to the university administration, the Dean of the College of Graduate Studies, the Senate, academic units, faculty members, and students. The university-wide jurisdiction of the Council shall derive from the President, the Senate, and the faculty.
 
@@ -266,11 +240,7 @@ toc: true
 
         1. The Council shall ensure that all stakeholders are informed of policy changes in a timely manner and publish policies online in collaboration with the College of Graduate Studies, Curriculum Services, the University Senate and others as appropriate.
 
-:::
-
-### 3.10  Undergraduate Council {#undergraduate-council .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Undergraduate Council {#undergraduate-council .policy-heading}
 
 1. Membership (17): nine faculty, including one from each academic college, the Library and SDSU Imperial Valley; Associate Vice President for Faculty Advancement and Student Success or designee, who shall chair; Associate Dean (FASS); Assistant Dean of Undergraduate Studies (FASS); Assistant Dean of Student Success (FASS); Vice President of Student Affairs and Campus Diversity, or designee; Associate Vice President for Enrollment; and two undergraduate students.
 
@@ -314,11 +284,7 @@ toc: true
 
             1. The Subcommittee shall encourage experimental and interdisciplinary courses.
 
-:::
-
-### 3.11  Lecturer Affairs Committee {#lecturer-affairs-committee .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Lecturer Affairs Committee {#lecturer-affairs-committee .policy-heading}
 
 1. Membership (13-20):
 
@@ -368,11 +334,7 @@ toc: true
 
 1. The Chair (or designee) shall report the business of the committee to the Senate.
 
-:::
-
-### 3.12 Staff Affairs Committee {#staff-affairs-committee .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Staff Affairs Committee {#staff-affairs-committee .policy-heading}
 
 1. Membership sixteen (16): Fourteen (14) open seats for permanent Non–Management Personnel Plan (non-MPP) staff from across the institution, one (1) open seat for an auxiliary organization Staff Senator as defined in Bylaws 1.0, and one (1) non-voting ex officio staff emeritus appointed by SDSU Retirement Association.
 
@@ -424,11 +386,7 @@ toc: true
 
             1. Functions: The committee shall provide recommendations to the University President regarding the Staff Excellence Awards program as defined in University Policies: Staff Awards 1.0.
 
-:::
-
-### 3.13  Sustainability Committee {#sustainability-committee .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Sustainability Committee {#sustainability-committee .policy-heading}
 
 1. Background/Purpose: Sustainability refers to practices designed to meet the needs of the present without compromising the ability of future generations to meet their own needs. It encompasses teaching, research, and practice in a variety of areas including but not limited to policy development, building design and construction, waste management and recycling, energy production and use, water use, and transportation.
 
@@ -447,8 +405,6 @@ toc: true
     1. Serve as a resource to faculty, staff and students wishing to undertake research, or propose curricular changes, or pursue sustainable practices.
 
     1. Communicate these activities and outcomes to the Senate, campus, and the broader community.
-
-:::
 
 [^fn1]: CAL, SCI, and PSFA have historically held the largest FTEF and are thus accorded an additional member to assist with committee staffing. This is consistent with the CSU Academic Senate, which allots two senators to each campus, and three senators to the largest of the campuses.
 
