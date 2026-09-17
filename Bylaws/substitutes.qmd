@@ -1,39 +1,36 @@
 ---
-title: "Substitutes"
+title: "5. Substitutes"
 description: "The policies and procedures for substitutes of the University Senate."
 toc: false
 ---
 
-::: {.policy-numbering .policy-start-5}
+::: {.policy-numbering .policy-start-1}
+1. Senators and members of Senate and Senate-appointed committees may appoint a substitute if they cannot attend a meeting, unless specified otherwise.
 
-5. Substitutes
+    1. A substitute serves for a single meeting.
 
-    1. Senators and members of Senate and Senate-appointed committees may appoint a substitute if they cannot attend a meeting, unless specified otherwise.
+    1. The substitute may attend the meeting and shall have the same speaking and voting privileges as the member.
 
-        1. A substitute serves for a single meeting.
+1. Eligibility
 
-        1. The substitute may attend the meeting and shall have the same speaking and voting privileges as the member.
+    1. General eligibility
 
-    1. Eligibility
+        1. Appointed and elected members may appoint someone from their same constituency, unless otherwise stated in the policy file.
 
-        1. General eligibility
+        1. Ex officio members may appoint someone from their same administrative area, unless otherwise stated in the policy file.
 
-            1. Appointed and elected members may appoint someone from their same constituency, unless otherwise stated in the policy file.
+    1. Senate Executive Committee: Ex officio members that chair a Senate standing committee may only appoint as substitute a committee member that is eligible to chair that committee.
 
-            1. Ex officio members may appoint someone from their same administrative area, unless otherwise stated in the policy file.
+    1. Senate Officer: Substitutes shall only be allowed for Senate Officers while serving as ex officio on Senate or Senate-appointed committees. An officer may appoint another officer as a substitute.
 
-        1. Senate Executive Committee: Ex officio members that chair a Senate standing committee may only appoint as substitute a committee member that is eligible to chair that committee.
+    1. ASCSU: The two runners-up from the last regular yearly election of the ASCSU Senator are considered “Alternates,” and are qualified to serve as a substitute for an ASCSU Senator. If an “Alternate” is not available to serve as substitute, the Chair of the Senate shall appoint a substitute. Any appointed substitute must meet the eligibility requirements in Bylaws 4.5.2.
 
-        1. Senate Officer: Substitutes shall only be allowed for Senate Officers while serving as ex officio on Senate or Senate-appointed committees. An officer may appoint another officer as a substitute.
+1. Notification
 
-        1. ASCSU: The two runners-up from the last regular yearly election of the ASCSU Senator are considered “Alternates,” and are qualified to serve as a substitute for an ASCSU Senator. If an “Alternate” is not available to serve as substitute, the Chair of the Senate shall appoint a substitute. Any appointed substitute must meet the eligibility requirements in Bylaws 4.5.2.
+    1. Senators appointing substitutes for a Senate meeting shall notify the Senate Officers in writing via established procedure as soon as is reasonably possible.
 
-    1. Notification
+    1. Committee members appointing substitutes for a committee meeting shall notify the committee chair in writing as soon as is reasonably possible.
 
-        1. Senators appointing substitutes for a Senate meeting shall notify the Senate Officers in writing via established procedure as soon as is reasonably possible.
-
-        1. Committee members appointing substitutes for a committee meeting shall notify the committee chair in writing as soon as is reasonably possible.
-
-        1. ASCSU Academic Senators appointing “Alternates” shall notify the appropriate member of the Academic Senate. ASCSU Academic Senators appointing a substitute for a Senate Executive Committee or Senate meeting shall notify the Senate Officers in writing via established procedure as soon as is reasonably possible.
+    1. ASCSU Academic Senators appointing “Alternates” shall notify the appropriate member of the Academic Senate. ASCSU Academic Senators appointing a substitute for a Senate Executive Committee or Senate meeting shall notify the Senate Officers in writing via established procedure as soon as is reasonably possible.
 
 :::

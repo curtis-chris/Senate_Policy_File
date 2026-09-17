@@ -1,103 +1,100 @@
 ---
-title: "Elections"
+title: "4. Elections"
 description: "The policies and procedures for elections of the University Senate."
 toc: false
 ---
 
-::: {.policy-numbering .policy-start-4}
+::: {.policy-numbering .policy-start-1}
+1. General Procedures
 
-4. Elections
+    1. All nominations and elections for which the Committee on Committees and Elections is responsible shall be by secret ballot.
 
-    1. General Procedures
+    1. The chair of the Committee on Committees and Elections shall maintain a record of each election. The results of each election by numerical count of votes received by each candidate shall be posted in the Senate office by the chair of the Committee on Committees and Elections as soon as the count has been completed and verified. The chair of the Committee on Committees and Elections shall retain for 30 days all ballots, or electronic records of ballots, cast during an election. If the results of the election are formally protested during that time, the ballots shall be retained until the protest is resolved. The results of each election by numerical count of the votes shall be kept on file in the Senate office for three years.
 
-        1. All nominations and elections for which the Committee on Committees and Elections is responsible shall be by secret ballot.
+    1. The period of time for casting ballots shall be five working days with the deadline at noon on the last day. The poll closing time shall be clearly stated on the ballot. Only ballots received via the online polling site by the poll closing time shall be counted.
 
-        1. The chair of the Committee on Committees and Elections shall maintain a record of each election. The results of each election by numerical count of votes received by each candidate shall be posted in the Senate office by the chair of the Committee on Committees and Elections as soon as the count has been completed and verified. The chair of the Committee on Committees and Elections shall retain for 30 days all ballots, or electronic records of ballots, cast during an election. If the results of the election are formally protested during that time, the ballots shall be retained until the protest is resolved. The results of each election by numerical count of the votes shall be kept on file in the Senate office for three years.
+1. Elections to the Senate
 
-        1. The period of time for casting ballots shall be five working days with the deadline at noon on the last day. The poll closing time shall be clearly stated on the ballot. Only ballots received via the online polling site by the poll closing time shall be counted.
+    1. The regular annual elections to the Senate shall occur during the spring. There shall be no elections to the Senate during the summer. Elections to fill uncompleted terms shall be conducted as directed in Sections 6.1, 6.22, and 6.32.
 
-    1. Elections to the Senate
+    1. For purposes of determining the number of college senators, faculty positions per major academic unit shall be the total Tenured and Probationary Faculty positions filled by the college.
 
-        1. The regular annual elections to the Senate shall occur during the spring. There shall be no elections to the Senate during the summer. Elections to fill uncompleted terms shall be conducted as directed in Sections 6.1, 6.22, and 6.32.
+    1. The number of senators to be elected by a major academic unit as authorized in Sec. 4.0 of the Constitution shall be determined once each year immediately before the regular annual elections.
 
-        1. For purposes of determining the number of college senators, faculty positions per major academic unit shall be the total Tenured and Probationary Faculty positions filled by the college.
+    1. A faculty member shall not serve as a representative to the CSU Academic Senate (ASCSU) while serving as a faculty representative in the SDSU University Senate.
 
-        1. The number of senators to be elected by a major academic unit as authorized in Sec. 4.0 of the Constitution shall be determined once each year immediately before the regular annual elections.
+    1. The election of senators shall be conducted in three steps as indicated below unless the election is terminated earlier as provided. Throughout this section, fractional numbers of candidates shall be considered as the next larger integer.
 
-        1. A faculty member shall not serve as a representative to the CSU Academic Senate (ASCSU) while serving as a faculty representative in the SDSU University Senate.
+        1. The availability of Senate seats shall be publicized to the university community. Electronic means of publicizing shall be acceptable, as long as all members of the various electorates are reached in this fashion. The election call shall request nominations to be submitted to the Senate office. Electronic submission shall be accepted. Self-nominations are acceptable. Those nominated shall have their names placed on the ballot for the next step of the election, unless the nominee requests that his or her name be withdrawn or the Committee on Committees and Elections determines that the nominee does not meet the criteria to be elected.
 
-        1. The election of senators shall be conducted in three steps as indicated below unless the election is terminated earlier as provided. Throughout this section, fractional numbers of candidates shall be considered as the next larger integer.
+        1. The second step shall provide the electorate with a ballot that lists all candidates nominated in accord with sec. 4.2.5.1. The candidates’ names shall be listed in random sequence as determined by lot. To allow faculty and staff to vote for candidates not duly nominated, the ballot shall also include a number of spaces for write-in nominees equal to the total number of vacant seats. On this and successive ballots, write-in nominees, without regard to their accumulated votes, shall be considered candidates of standing equal to those nominated in accord with sec. 4.2.5.1. The electorate may vote for as many candidates as there are vacant seats, but it shall vote for no more candidates than vacant seats. Ballots containing more votes than the number of vacant seats shall be voided. Candidates shall be elected to fill vacant seats in a descending order of votes cast until all vacant seats are filled.
 
-            1. The availability of Senate seats shall be publicized to the university community. Electronic means of publicizing shall be acceptable, as long as all members of the various electorates are reached in this fashion. The election call shall request nominations to be submitted to the Senate office. Electronic submission shall be accepted. Self-nominations are acceptable. Those nominated shall have their names placed on the ballot for the next step of the election, unless the nominee requests that his or her name be withdrawn or the Committee on Committees and Elections determines that the nominee does not meet the criteria to be elected.
+        1. Successive ballots shall be cast to eliminate ties for remaining vacant seats. Each ballot shall include only those candidates who have tied for the last vacant seat on an immediately preceding ballot.
 
-            1. The second step shall provide the electorate with a ballot that lists all candidates nominated in accord with sec. 4.2.5.1. The candidates’ names shall be listed in random sequence as determined by lot. To allow faculty and staff to vote for candidates not duly nominated, the ballot shall also include a number of spaces for write-in nominees equal to the total number of vacant seats. On this and successive ballots, write-in nominees, without regard to their accumulated votes, shall be considered candidates of standing equal to those nominated in accord with sec. 4.2.5.1. The electorate may vote for as many candidates as there are vacant seats, but it shall vote for no more candidates than vacant seats. Ballots containing more votes than the number of vacant seats shall be voided. Candidates shall be elected to fill vacant seats in a descending order of votes cast until all vacant seats are filled.
+        1. Whenever feasible, staggered terms shall be arranged so that only one-third of the senators of each major academic unit are elected to a three-year term in the spring. When the election involves terms of different lengths, the candidates who receive the greatest number of votes on the ballot resulting in their being elected shall receive the longest term available. Ties shall be broken by lot. Service for a short term shall be considered a partial term; therefore, the person elected remains eligible to serve two additional consecutive full terms.
 
-            1. Successive ballots shall be cast to eliminate ties for remaining vacant seats. Each ballot shall include only those candidates who have tied for the last vacant seat on an immediately preceding ballot.
+        1. Vacant seats resulting from the application of Sections 4.2.5.1.–2.5.4. above shall be conducted as directed in Sections 6.1, 6.2.2., 6.3.2.
 
-            1. Whenever feasible, staggered terms shall be arranged so that only one-third of the senators of each major academic unit are elected to a three-year term in the spring. When the election involves terms of different lengths, the candidates who receive the greatest number of votes on the ballot resulting in their being elected shall receive the longest term available. Ties shall be broken by lot. Service for a short term shall be considered a partial term; therefore, the person elected remains eligible to serve two additional consecutive full terms.
+    1. The Senate seat of an elected member shall become vacant when the individual (a) resigns from the Senate, (b) becomes an ex officio member of the Senate, (c) is elected as a member of the Senate representing another employee group, (d) is absent and unrepresented for more than two regular Senate meetings during the academic year, (e) is absent with or without representation for more than four regular Senate meetings during the academic year, (f) has not served on a Senate or Senate-affiliated Campus committee for over a year, (g) becomes ineligible due to change in classification or job status, (h) separates from the university.
 
-            1. Vacant seats resulting from the application of Sections 4.2.5.1.–2.5.4. above shall be conducted as directed in Sections 6.1, 6.2.2., 6.3.2.
+    1. Members that fail to meet the eligibility criteria due to a change in job status (e.g. a tenured and probationary faculty member becoming a member of MPP or entering FERP) may finish serving the current year of their term in the Senate, but if they hold a position of officer, they shall relinquish that position immediately. Likewise, those who are no longer eligible to serve in a Senate Committee due to a change in job status can finish the current year of their term, but if they hold the position of a committee chair, they shall relinquish that position immediately.
 
-        1. The Senate seat of an elected member shall become vacant when the individual (a) resigns from the Senate, (b) becomes an ex officio member of the Senate, (c) is elected as a member of the Senate representing another employee group, (d) is absent and unrepresented for more than two regular Senate meetings during the academic year, (e) is absent with or without representation for more than four regular Senate meetings during the academic year, (f) has not served on a Senate or Senate-affiliated Campus committee for over a year, (g) becomes ineligible due to change in classification or job status, (h) separates from the university.
+1. Filling Temporary Vacancies: The Secretary of the Senate shall report leaves and extended absences of senators to the Committee for Committees and Elections, which shall certify the existence of a vacancy and proceed to fill it as prescribed in Sec. 4.2.5.
 
-        1. Members that fail to meet the eligibility criteria due to a change in job status (e.g. a tenured and probationary faculty member becoming a member of MPP or entering FERP) may finish serving the current year of their term in the Senate, but if they hold a position of officer, they shall relinquish that position immediately. Likewise, those who are no longer eligible to serve in a Senate Committee due to a change in job status can finish the current year of their term, but if they hold the position of a committee chair, they shall relinquish that position immediately.
+1. Elections within the Senate
 
-    1. Filling Temporary Vacancies: The Secretary of the Senate shall report leaves and extended absences of senators to the Committee for Committees and Elections, which shall certify the existence of a vacancy and proceed to fill it as prescribed in Sec. 4.2.5.
+    1. The annual election of the Chair, the Vice Chair, the Secretary, and the Treasurer of the Senate, and of the elected members of the Senate Executive Committee shall be conducted at a Senate meeting during the spring semester following the regular annual election of members to the University Senate, including those elected to the Academic Senate of The California State University (ASCSU). Eligible electors shall consist of the members of the Senate for the ensuing Senate year.
 
-    1. Elections within the Senate
+        1. The Committee on Committees and Elections shall conduct the elections in the following order: (a) Chair, (b) Vice Chair, (c) Secretary, (d) Treasurer, (e) three Executive Committee members.
 
-        1. The annual election of the Chair, the Vice Chair, the Secretary, and the Treasurer of the Senate, and of the elected members of the Senate Executive Committee shall be conducted at a Senate meeting during the spring semester following the regular annual election of members to the University Senate, including those elected to the Academic Senate of The California State University (ASCSU). Eligible electors shall consist of the members of the Senate for the ensuing Senate year.
+        1. Officers and elected Senate Executive Committee members shall serve for the following Senate year.
 
-            1. The Committee on Committees and Elections shall conduct the elections in the following order: (a) Chair, (b) Vice Chair, (c) Secretary, (d) Treasurer, (e) three Executive Committee members.
+        1. A nominating caucus held prior to the election shall submit at least one nominee for each position to be elected. Attendance at the caucus shall be open to all outgoing and incoming Senators.
 
-            1. Officers and elected Senate Executive Committee members shall serve for the following Senate year.
+        1. Elections shall be conducted during a regular Senate meeting. In addition to those nominated by the caucus, nominations may be made from the floor prior to each election. A majority of votes cast shall be required for election on the first ballot. If a majority is not obtained for each position, a runoff election shall be held among the n + 1 candidates receiving the most votes where n is the remaining number of positions to be filled.
 
-            1. A nominating caucus held prior to the election shall submit at least one nominee for each position to be elected. Attendance at the caucus shall be open to all outgoing and incoming Senators.
+        1. The numerical results of all ballots shall be available to senators through the chair of the Committee on Committees and Elections.
 
-            1. Elections shall be conducted during a regular Senate meeting. In addition to those nominated by the caucus, nominations may be made from the floor prior to each election. A majority of votes cast shall be required for election on the first ballot. If a majority is not obtained for each position, a runoff election shall be held among the n + 1 candidates receiving the most votes where n is the remaining number of positions to be filled.
+1. Elections to the Academic Senate of The California State University (ASCSU)
 
-            1. The numerical results of all ballots shall be available to senators through the chair of the Committee on Committees and Elections.
+    1. The Committee on Committees and Elections (CCE) shall devise procedures for and shall supervise and administer all elections of representatives from San Diego State University to the Academic Senate of The California State University (ASCSU). Elections shall be held each spring by April 15 for ASCSU senators with terms to start the upcoming academic year.
 
-    1. Elections to the Academic Senate of The California State University (ASCSU)
+    1. Eligibility to serve as an elected member in the ASCSU is defined in Constitution 4.0.
 
-        1. The Committee on Committees and Elections (CCE) shall devise procedures for and shall supervise and administer all elections of representatives from San Diego State University to the Academic Senate of The California State University (ASCSU). Elections shall be held each spring by April 15 for ASCSU senators with terms to start the upcoming academic year.
+    1. The electorate is defined in Constitution 4.0.
 
-        1. Eligibility to serve as an elected member in the ASCSU is defined in Constitution 4.0.
+    1. The CCE shall resolve any dubious or disputed eligibility for election to the Academic Senate or membership in the electorate.
 
-        1. The electorate is defined in Constitution 4.0.
+    1. The election shall be conducted in a manner similar to the provisions of Sec. 4.2.
 
-        1. The CCE shall resolve any dubious or disputed eligibility for election to the Academic Senate or membership in the electorate.
+    1. The two runners-up from the last regular yearly election of ASCSU senators are considered “Alternates,” and are qualified to serve as a substitute for an ASCSU Senator. If an “Alternate” is not available to serve as substitute, the Chair of the Senate shall appoint a substitute. Any appointed substitute must meet the eligibility requirements in 4.5.2.
 
-        1. The election shall be conducted in a manner similar to the provisions of Sec. 4.2.
+    1. In the event that an elected member will be absent for one semester or longer a replacement shall be elected by all faculty for the duration of the absence or the end of the term. Any elected replacement must meet the eligibility requirements in 4.5.2.
 
-        1. The two runners-up from the last regular yearly election of ASCSU senators are considered “Alternates,” and are qualified to serve as a substitute for an ASCSU Senator. If an “Alternate” is not available to serve as substitute, the Chair of the Senate shall appoint a substitute. Any appointed substitute must meet the eligibility requirements in 4.5.2.
+1. Nomination of Faculty Trustee
 
-        1. In the event that an elected member will be absent for one semester or longer a replacement shall be elected by all faculty for the duration of the absence or the end of the term. Any elected replacement must meet the eligibility requirements in 4.5.2.
+    1. A tenured and probationary faculty member with no administrative position other than department chair or equivalent may stand to be submitted as a candidate for the position of Faculty Trustee. Nomination shall require the signed concurrence of at least 10 percent of the tenured and probationary faculty or 50 such faculty members, whichever number is smaller.
 
-    1. Nomination of Faculty Trustee
+    1. At a regularly scheduled meeting, the Senate may nominate candidates to serve as a Faculty Trustee. The nominees shall have previously agreed to serve and to submit all required materials. Nominations from the Senate floor shall require a three-fourths affirmative vote of the senators present at the meeting.
 
-        1. A tenured and probationary faculty member with no administrative position other than department chair or equivalent may stand to be submitted as a candidate for the position of Faculty Trustee. Nomination shall require the signed concurrence of at least 10 percent of the tenured and probationary faculty or 50 such faculty members, whichever number is smaller.
+1. Nomination of Faculty to Advisory Committee to the Trustees Committee for the Selection of the President (ACTCSP)
 
-        1. At a regularly scheduled meeting, the Senate may nominate candidates to serve as a Faculty Trustee. The nominees shall have previously agreed to serve and to submit all required materials. Nominations from the Senate floor shall require a three-fourths affirmative vote of the senators present at the meeting.
+    1. The Committee on Committees and Elections shall provide notice to the faculty of the formation of the search Committee and shall invite nominations to the ACTCSP of tenured or probationary faculty.
 
-    1. Nomination of Faculty to Advisory Committee to the Trustees Committee for the Selection of the President (ACTCSP)
+    1. Nominations shall be made by interested faculty submitting a request, endorsed by 10 faculty members, at least five of whom are tenured or tenure-track, for placement on the ACTCSP selection ballot. Eligible nominees are tenured and probationary faculty as defined by these Bylaws, in Sec. 1.2. The period for submitting these requests shall be not less than two or more than five weeks.
 
-        1. The Committee on Committees and Elections shall provide notice to the faculty of the formation of the search Committee and shall invite nominations to the ACTCSP of tenured or probationary faculty.
+    1. At the next regular Senate meeting following the close of the initial nominating period, additional nominations (with the consent of the nominee) shall be added to the ballot by a simple majority vote of the senators present.
 
-        1. Nominations shall be made by interested faculty submitting a request, endorsed by 10 faculty members, at least five of whom are tenured or tenure-track, for placement on the ACTCSP selection ballot. Eligible nominees are tenured and probationary faculty as defined by these Bylaws, in Sec. 1.2. The period for submitting these requests shall be not less than two or more than five weeks.
+    1. To conduct the election, the Committee on Committees and Elections shall prepare a ballot with the names of all nominees, in an order determined by lot. The electorate shall include all faculty, as defined by Bylaws 1.0. The two faculty members with the highest vote counts shall have been elected, provided that no more than one shall serve from any college.
 
-        1. At the next regular Senate meeting following the close of the initial nominating period, additional nominations (with the consent of the nominee) shall be added to the ballot by a simple majority vote of the senators present.
+    1. The sitting Senate Chair shall serve as an ex officio member of the ACTCSP.
 
-        1. To conduct the election, the Committee on Committees and Elections shall prepare a ballot with the names of all nominees, in an order determined by lot. The electorate shall include all faculty, as defined by Bylaws 1.0. The two faculty members with the highest vote counts shall have been elected, provided that no more than one shall serve from any college.
+1. Nomination of non-MPP Staff to the Advisory Committee to the Trustees Committee for the Selection of the President
 
-        1. The sitting Senate Chair shall serve as an ex officio member of the ACTCSP.
+    1. The Committee on Committees and Elections shall provide notice to the staff of the formation of the search committee and shall invite nominations to the ACTCSP of non-MPP staff.
 
-    1. Nomination of non-MPP Staff to the Advisory Committee to the Trustees Committee for the Selection of the President
+    1. Nominations shall be made by petition endorsed by 10 staff for placement on the selection ballot. The period for submitting these requests shall be not less than two nor more than five weeks.
 
-        1. The Committee on Committees and Elections shall provide notice to the staff of the formation of the search committee and shall invite nominations to the ACTCSP of non-MPP staff.
-
-        1. Nominations shall be made by petition endorsed by 10 staff for placement on the selection ballot. The period for submitting these requests shall be not less than two nor more than five weeks.
-
-        1. To conduct the election, the Committee on Committees and Elections shall prepare a ballot with the names of all nominees in an order determined by lot. The electorate shall include all non-MPP staff, including probationary staff. The staff member with the highest vote count shall be elected.
+    1. To conduct the election, the Committee on Committees and Elections shall prepare a ballot with the names of all nominees in an order determined by lot. The electorate shall include all non-MPP staff, including probationary staff. The staff member with the highest vote count shall be elected.
 
 :::

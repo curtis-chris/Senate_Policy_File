@@ -316,3 +316,8 @@
 .policy-numbering .policy-toc-heading .anchorjs-link {
   font-size: inherit;
 }
+
+/* Retain description metadata but do not display it in the page title block. */
+#title-block-header .description {
+  display: none;
+}
