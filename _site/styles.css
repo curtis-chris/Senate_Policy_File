@@ -295,34 +295,29 @@
 .policy-start-19 { --policy-start: 18; }
 .policy-start-20 { --policy-start: 19; }
 
-
 /*
- * Hybrid policy numbering
- *
- * Major titled provisions are h2 headings.
- * Subordinate untitled provisions remain nested ordered lists.
- *
- * The policy-hybrid and policy-start-N classes are placed on <body>
- * through the page's body-classes YAML option.
+ * Initialize all policy counters.
  */
 
 body.policy-hybrid main {
-  counter-reset: policy-heading var(--policy-start, 0);
+  counter-reset:
+    policy-l1 var(--policy-start, 0)
+    policy-l2
+    policy-l3
+    policy-l4
+    policy-l5;
 }
 
 /*
- * Quarto wraps each h2 and its contents in:
+ * Level-two headings:
  *
- * <section class="level2 policy-heading">
- *   <h2 class="policy-heading">...</h2>
- *   ...
- * </section>
+ * ## Membership and Electorate
  *
- * Increment the counter on the section, but display it on the h2.
+ * Displays 4.0, 5.0, etc.
  */
 
 body.policy-hybrid main > section.level2.policy-heading {
-  counter-increment: policy-heading;
+  counter-increment: policy-l1;
   counter-reset: policy-l2;
 }
 
@@ -330,31 +325,112 @@ body.policy-hybrid
 main
 > section.level2.policy-heading
 > h2.policy-heading::before {
-  content: counter(policy-heading) ".0\00a0";
+  content: counter(policy-l1) ".0\00a0";
   font-weight: 600;
   font-variant-numeric: tabular-nums;
 }
 
 /*
- * Policy lists only
+ * Level-three headings:
  *
- * Scoping these selectors to main policy sections prevents them from
- * affecting the sidebar, breadcrumbs, or "On this page" list.
+ * ### Elected Members
+ *
+ * Displays 4.1, 4.2, etc.
  */
 
 body.policy-hybrid
 main
-> section.level2.policy-heading
-ol {
+section.level2.policy-heading
+> section.level3.policy-heading {
+  counter-increment: policy-l2;
+  counter-reset: policy-l3;
+}
+
+body.policy-hybrid
+main
+section.level2.policy-heading
+> section.level3.policy-heading
+> h3.policy-heading::before {
+  content:
+    counter(policy-l1) "."
+    counter(policy-l2) "\00a0";
+
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/*
+ * Level-four headings:
+ *
+ * #### Tenured and Probationary Faculty
+ *
+ * Displays 4.1.1, 4.1.2, etc.
+ */
+
+body.policy-hybrid
+main
+section.level3.policy-heading
+> section.level4.policy-heading {
+  counter-increment: policy-l3;
+  counter-reset: policy-l4;
+}
+
+body.policy-hybrid
+main
+section.level3.policy-heading
+> section.level4.policy-heading
+> h4.policy-heading::before {
+  content:
+    counter(policy-l1) "."
+    counter(policy-l2) "."
+    counter(policy-l3) "\00a0";
+
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/*
+ * Level-five headings:
+ *
+ * ##### Election Procedures
+ *
+ * Displays 4.1.1.1, etc.
+ */
+
+body.policy-hybrid
+main
+section.level4.policy-heading
+> section.level5.policy-heading {
+  counter-increment: policy-l4;
+  counter-reset: policy-l5;
+}
+
+body.policy-hybrid
+main
+section.level4.policy-heading
+> section.level5.policy-heading
+> h5.policy-heading::before {
+  content:
+    counter(policy-l1) "."
+    counter(policy-l2) "."
+    counter(policy-l3) "."
+    counter(policy-l4) "\00a0";
+
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+}
+
+/*
+ * Common policy-list layout.
+ */
+
+body.policy-hybrid main section.policy-heading ol {
   list-style: none;
   margin-block: 0.5rem 1rem;
   padding-inline-start: 4.5rem;
 }
 
-body.policy-hybrid
-main
-> section.level2.policy-heading
-li {
+body.policy-hybrid main section.policy-heading li {
   position: relative;
   margin-block: 0.55rem;
   padding-inline-start: 0.35rem;
@@ -362,10 +438,7 @@ li {
   hyphens: auto;
 }
 
-body.policy-hybrid
-main
-> section.level2.policy-heading
-li::before {
+body.policy-hybrid main section.policy-heading li::before {
   position: absolute;
   inset-inline-end: calc(100% + 0.45rem);
   top: 0;
@@ -376,12 +449,14 @@ li::before {
 }
 
 /*
- * First list level: 3.1, 3.2, ...
+ * A list immediately below an h2 section:
+ *
+ * 4.1, 4.2, ...
  */
 
 body.policy-hybrid
 main
-> section.level2.policy-heading
+section.level2.policy-heading
 > ol
 > li {
   counter-increment: policy-l2;
@@ -390,23 +465,23 @@ main
 
 body.policy-hybrid
 main
-> section.level2.policy-heading
+section.level2.policy-heading
 > ol
 > li::before {
   content:
-    counter(policy-heading) "."
+    counter(policy-l1) "."
     counter(policy-l2);
 }
 
 /*
- * Second list level: 3.1.1, 3.1.2, ...
+ * A list immediately below an h3 section:
+ *
+ * 4.1.1, 4.1.2, ...
  */
 
 body.policy-hybrid
 main
-> section.level2.policy-heading
-> ol
-> li
+section.level3.policy-heading
 > ol
 > li {
   counter-increment: policy-l3;
@@ -415,26 +490,51 @@ main
 
 body.policy-hybrid
 main
-> section.level2.policy-heading
-> ol
-> li
+section.level3.policy-heading
 > ol
 > li::before {
   content:
-    counter(policy-heading) "."
+    counter(policy-l1) "."
     counter(policy-l2) "."
     counter(policy-l3);
 }
 
 /*
- * Third list level: 3.1.1.1, 3.1.1.2, ...
+ * A list immediately below an h4 section:
+ *
+ * 4.1.1.1, 4.1.1.2, ...
  */
 
 body.policy-hybrid
 main
-> section.level2.policy-heading
+section.level4.policy-heading
 > ol
-> li
+> li {
+  counter-increment: policy-l4;
+  counter-reset: policy-l5;
+}
+
+body.policy-hybrid
+main
+section.level4.policy-heading
+> ol
+> li::before {
+  content:
+    counter(policy-l1) "."
+    counter(policy-l2) "."
+    counter(policy-l3) "."
+    counter(policy-l4);
+}
+
+/*
+ * A nested list under a list item belonging to an h3 section:
+ *
+ * 4.1.1.1, 4.1.1.2, ...
+ */
+
+body.policy-hybrid
+main
+section.level3.policy-heading
 > ol
 > li
 > ol
@@ -445,29 +545,27 @@ main
 
 body.policy-hybrid
 main
-> section.level2.policy-heading
-> ol
-> li
+section.level3.policy-heading
 > ol
 > li
 > ol
 > li::before {
   content:
-    counter(policy-heading) "."
+    counter(policy-l1) "."
     counter(policy-l2) "."
     counter(policy-l3) "."
     counter(policy-l4);
 }
 
 /*
- * Fourth list level: 3.1.1.1.1, ...
+ * A second nested list under an h3 section:
+ *
+ * 4.1.1.1.1, ...
  */
 
 body.policy-hybrid
 main
-> section.level2.policy-heading
-> ol
-> li
+section.level3.policy-heading
 > ol
 > li
 > ol
@@ -479,9 +577,7 @@ main
 
 body.policy-hybrid
 main
-> section.level2.policy-heading
-> ol
-> li
+section.level3.policy-heading
 > ol
 > li
 > ol
@@ -489,44 +585,11 @@ main
 > ol
 > li::before {
   content:
-    counter(policy-heading) "."
+    counter(policy-l1) "."
     counter(policy-l2) "."
     counter(policy-l3) "."
     counter(policy-l4) "."
     counter(policy-l5);
-}
-
-/*
- * Pandoc sometimes wraps list text in paragraphs.
- */
-
-body.policy-hybrid
-main
-> section.level2.policy-heading
-li
-> p:first-child {
-  margin-top: 0;
-}
-
-body.policy-hybrid
-main
-> section.level2.policy-heading
-li
-> p:last-child {
-  margin-bottom: 0;
-}
-
-/*
- * Space between a provision and its subordinate list.
- */
-
-body.policy-hybrid
-main
-> section.level2.policy-heading
-li
-> ol {
-  margin-top: 0.65rem;
-  margin-bottom: 0.75rem;
 }
 
 /* Retain description metadata but do not display it in the page title block. */
