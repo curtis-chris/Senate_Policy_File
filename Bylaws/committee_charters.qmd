@@ -1,5 +1,7 @@
 ---
-title: ""
+title: "Senate Executive Committee and Senate Core Committees: Charters"
+description: "The charters of the Core Senate Committees."
+toc: true
 ---
 
 ## 3. Senate Executive Committee and Senate Core Committees: Charters {#senate-executive-committee-and-senate-core-committees-charters .unnumbered}

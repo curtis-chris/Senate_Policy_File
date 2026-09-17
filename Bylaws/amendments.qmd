@@ -1,5 +1,7 @@
 ---
-title: ""
+title: "Amendments"
+description: "How amendments to the Bylaws are defined and adopted."
+toc: false
 ---
 
 ::: {.policy-numbering .policy-start-14}
