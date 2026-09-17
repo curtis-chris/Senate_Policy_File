@@ -1,5 +1,7 @@
 ---
-title: ""
+title: "Definitions"
+description: "The definitions of key terms used in the Bylaws."
+toc: false
 ---
 
 ::: {.policy-numbering .policy-start-1}

@@ -1,5 +1,7 @@
 ---
 title: "Substitutes"
+description: "The policies and procedures for substitutes of the University Senate."
+toc: false
 ---
 
 ::: {.policy-numbering .policy-start-5}

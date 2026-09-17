@@ -1,5 +1,7 @@
 ---
-title: ""
+title: "Interpretation of Senate Actions"
+description: "The policies and procedures for interpretation of Senate actions."
+toc: false
 ---
 
 ::: {.policy-numbering .policy-start-12}

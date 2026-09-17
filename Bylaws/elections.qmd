@@ -1,5 +1,7 @@
 ---
 title: "Elections"
+description: "The policies and procedures for elections of the University Senate."
+toc: false
 ---
 
 ::: {.policy-numbering .policy-start-4}

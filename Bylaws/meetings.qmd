@@ -1,5 +1,7 @@
 ---
 title: "Meetings"
+description: "The policies and procedures for meetings of the University Senate."
+toc: false
 ---
 
 ::: {.policy-numbering .policy-start-7}

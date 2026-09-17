@@ -1,5 +1,7 @@
 ---
-title: ""
+title: "Parlimentary Procedure"
+description: "The policies and procedures for parliamentary procedure of the University Senate."
+toc: false
 ---
 
 ::: {.policy-numbering .policy-start-10}
