@@ -5,7 +5,7 @@ website:
   title: "Policy File"
   search:
     location: navbar
-    type: overlay
+    type: textbox
     limit: 50
     collapse-after: 5
     show-item-context: tree

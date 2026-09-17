@@ -1,10 +1,8 @@
 ---
-title: "Senate Executive Committee and Senate Core Committees: Charters"
+title: "3. Senate Executive Committee and Senate Core Committees: Charters"
 description: "The charters of the Core Senate Committees.  Establishes membership, function, duties, quorum requirements, and reporting requirements for each committee."
 toc: true
 ---
-
-## 3. Senate Executive Committee and Senate Core Committees: Charters {#senate-executive-committee-and-senate-core-committees-charters .unnumbered}
 
 ### 3.1  Senate Executive Committee {#senate-executive-committee .unnumbered}
 
