@@ -5,8 +5,7 @@ toc: false
 ---
 
 ::: {.policy-numbering .policy-start-2}
-
-2. Committees
+1. Committees
 
     1. Types of Committees
 
