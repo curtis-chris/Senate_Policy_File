@@ -3,6 +3,15 @@ project:
 
 website:
   title: "Policy File"
+  search:
+    location: navbar
+    type: textbox
+    limit: 50
+    collapse-after: 5
+    show-item-context: tree
+    copy-button: true
+    keyboard-shortcut: ["/", "s", "f"]
+  
   sidebar:
     style: "docked"
     search: true
