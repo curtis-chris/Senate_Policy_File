@@ -2,13 +2,17 @@
 title: "Constitution"
 description: "The Constitution of the San Diego State University Senate"
 toc: true
+toc-location: right
+toc-depth: 3
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-1"
 ---
 
 ## Preamble {#preamble .unnumbered}
 
 San Diego State University shall perform its educational mission guided by the principles of shared governance. Granted, therefore, that the Board of Trustees of The California State University invests responsibility for the operation of San Diego State University in the President of the university, the President shall be committed to formal consultation through shared governance: Accordingly, committees and councils shall advise the President either directly or through the University Senate, also called the Senate, a deliberative body that shall represent university faculty, administration, students, and staff.
-
-::: {.policy-hybrid .policy-start-1}
 
 ## Purpose {#purpose .policy-heading}
 
@@ -120,5 +124,3 @@ The Senate shall be responsible for constructing its own rules of operating proc
 ## Amendments {#amendments .policy-heading}
 
 Amendments to this Constitution shall be initiated by a majority vote of the Senate after having been presented at the previous meeting. Proposed amendments shall be submitted in writing to the tenured and probationary faculty electorate (as defined in the Bylaws 1.0) . The Senate shall conduct a ballot vote (via the web) on all proposed amendments. An amendment shall be adopted by an affirmative vote of a majority of those voting.
-
-:::
