@@ -1,5 +1,5 @@
 ---
-title: "Committees"
+title: "2. Committees"
 description: "The policies and procedures for the committees of the University Senate."
 toc: false
 ---

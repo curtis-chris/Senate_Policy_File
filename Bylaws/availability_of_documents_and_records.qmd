@@ -1,20 +1,19 @@
 ---
-title: "Availability of Documents and Records"
+title: "13. Availability of Documents and Records"
 description: "How the availability of documents and records is defined and maintained."
 toc: false
 ---
 
-::: {.policy-numbering .policy-start-13}
-13. Availability of Documents and Records
+::: {.policy-numbering .policy-start-1}
 
-    1. All agendas, minutes, resolutions, annual Senate University Policy Files versions, and presidential action memos of all regular and special Senate and Senate Executive Committee meetings shall be posted on the Senate website for a minimum of two years. 
-    
-    2.	If a Senate meeting or any Senate-related event is recorded in whole or in part, the recording shall be available in a manner consistent with the California Public Records Act.  
-    
-    3.	Confidential material shall be redacted or omitted from posted materials, but the agenda item in which confidential material is addressed shall be included in the table of contents and minutes.
-    
-    4.	Special Collections and University Archives will archive Senate agendas, minutes, resolutions, annual university policy file versions, and presidential action memos over two years old. These materials are publicly available in Special Collections & University Archives.  
-    
-    5.	The current Senate University Policy File shall be made available on the senate website.
+1. All agendas, minutes, resolutions, annual Senate University Policy Files versions, and presidential action memos of all regular and special Senate and Senate Executive Committee meetings shall be posted on the Senate website for a minimum of two years. 
+
+2.	If a Senate meeting or any Senate-related event is recorded in whole or in part, the recording shall be available in a manner consistent with the California Public Records Act.  
+
+3.	Confidential material shall be redacted or omitted from posted materials, but the agenda item in which confidential material is addressed shall be included in the table of contents and minutes.
+
+4.	Special Collections and University Archives will archive Senate agendas, minutes, resolutions, annual university policy file versions, and presidential action memos over two years old. These materials are publicly available in Special Collections & University Archives.  
+
+5.	The current Senate University Policy File shall be made available on the senate website.
 
 :::
