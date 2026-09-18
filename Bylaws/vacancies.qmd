@@ -5,7 +5,7 @@ toc: false
 
 format:
   html:
-    body-classes: "policy-hybrid policy-start-1"
+    body-classes: "policy-hybrid policy-start-6"
 ---
 
 ## Vacancies {#vacancies .policy-heading}

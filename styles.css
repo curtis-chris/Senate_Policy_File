@@ -474,6 +474,116 @@ section.level2.policy-heading
 }
 
 /*
+ * Lists beneath a level-two heading
+ *
+ * ## Membership              4.0
+ *    1. Elected Members      4.1
+ *       1. Faculty           4.1.1
+ *          1. Electorate     4.1.1.1
+ */
+
+/*
+ * Second list level beneath an h2:
+ * 4.1.1, 4.1.2, ...
+ */
+
+body.policy-hybrid
+main
+> section.level2.policy-heading
+> ol
+> li
+> ol
+> li {
+  counter-increment: policy-l3;
+  counter-reset: policy-l4;
+}
+
+body.policy-hybrid
+main
+> section.level2.policy-heading
+> ol
+> li
+> ol
+> li::before {
+  content:
+    counter(policy-l1) "."
+    counter(policy-l2) "."
+    counter(policy-l3);
+}
+
+/*
+ * Third list level beneath an h2:
+ * 4.1.1.1, 4.1.1.2, ...
+ */
+
+body.policy-hybrid
+main
+> section.level2.policy-heading
+> ol
+> li
+> ol
+> li
+> ol
+> li {
+  counter-increment: policy-l4;
+  counter-reset: policy-l5;
+}
+
+body.policy-hybrid
+main
+> section.level2.policy-heading
+> ol
+> li
+> ol
+> li
+> ol
+> li::before {
+  content:
+    counter(policy-l1) "."
+    counter(policy-l2) "."
+    counter(policy-l3) "."
+    counter(policy-l4);
+}
+
+/*
+ * Fourth list level beneath an h2:
+ * 4.1.1.1.1, 4.1.1.1.2, ...
+ */
+
+body.policy-hybrid
+main
+> section.level2.policy-heading
+> ol
+> li
+> ol
+> li
+> ol
+> li
+> ol
+> li {
+  counter-increment: policy-l5;
+}
+
+body.policy-hybrid
+main
+> section.level2.policy-heading
+> ol
+> li
+> ol
+> li
+> ol
+> li
+> ol
+> li::before {
+  content:
+    counter(policy-l1) "."
+    counter(policy-l2) "."
+    counter(policy-l3) "."
+    counter(policy-l4) "."
+    counter(policy-l5);
+}
+
+/*
  * A list immediately below an h3 section:
  *
  * 4.1.1, 4.1.2, ...

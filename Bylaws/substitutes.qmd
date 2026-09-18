@@ -8,13 +8,14 @@ format:
     body-classes: "policy-hybrid policy-start-5"
 ---
 ## Substitutes {#substitutes .policy-heading}
-1. Senators and members of Senate and Senate-appointed committees may appoint a substitute if they cannot attend a meeting, unless specified otherwise.
+
+1. Senators and members of Senate and Senate-appointed committees may appoint a substitute if they cannot attend a meeting, unless specified otherwise. {#policy .policy-heading}
 
     1. A substitute serves for a single meeting.
 
-    1. The substitute may attend the meeting and shall have the same speaking and voting privileges as the member.
+    2. The substitute may attend the meeting and shall have the same speaking and voting privileges as the member.
 
-1. Eligibility
+1. Eligibility 
 
     1. General eligibility
 
@@ -28,7 +29,7 @@ format:
 
     1. ASCSU: The two runners-up from the last regular yearly election of the ASCSU Senator are considered “Alternates,” and are qualified to serve as a substitute for an ASCSU Senator. If an “Alternate” is not available to serve as substitute, the Chair of the Senate shall appoint a substitute. Any appointed substitute must meet the eligibility requirements in Bylaws 4.5.2.
 
-1. Notification
+1. Notification 
 
     1. Senators appointing substitutes for a Senate meeting shall notify the Senate Officers in writing via established procedure as soon as is reasonably possible.
 
