@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bylaws: Presidential Approval of Senate Actions"
 description: "The policies and procedures for presidential approval of Senate actions."
 toc: false
 

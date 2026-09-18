@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bylaws: Committees"
 description: "The policies and procedures for the committees of the University Senate."
 toc: true
 toc-location: right

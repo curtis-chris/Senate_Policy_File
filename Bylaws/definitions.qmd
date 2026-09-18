@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bylaws: Definitions"
 description: "The definitions of key terms used in the Bylaws."
 toc: true
 toc-location: right

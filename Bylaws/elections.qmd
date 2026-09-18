@@ -1,5 +1,5 @@
 ---
-title: "4. Elections"
+title: "Bylaws:Elections"
 description: "The policies and procedures for elections of the University Senate."
 toc: false
 

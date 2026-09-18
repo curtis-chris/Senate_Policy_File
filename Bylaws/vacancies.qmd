@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bylaws: Vacancies"
 description: "How vacancies are defined and addressed in the Bylaws."
 toc: false
 

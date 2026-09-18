@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bylaws: Interpretation of Senate Actions"
 description: "The policies and procedures for interpretation of Senate actions."
 toc: false
 

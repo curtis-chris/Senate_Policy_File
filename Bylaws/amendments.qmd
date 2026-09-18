@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bylaws: Amendments"
 description: "How amendments to the Bylaws are defined and adopted."
 toc: false
 

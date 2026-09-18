@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bylaws: Order of Business"
 description: "The policies and procedures for the order of business of the University Senate."
 toc: false
 

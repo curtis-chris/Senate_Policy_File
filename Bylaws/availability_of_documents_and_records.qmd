@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Bylaws: Availability of Documents and Records"
 description: "How the availability of documents and records is defined and maintained."
 toc: false
 
