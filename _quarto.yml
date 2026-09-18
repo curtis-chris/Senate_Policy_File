@@ -2,7 +2,7 @@ project:
   type: website  
 
 website:
-  title: "Policy File"
+  title: "University Policy File"
   search:
     location: navbar
     type: overlay
@@ -91,6 +91,6 @@ format:
     number-sections: false
 
 language:
-  search-text-placeholder: "Search the Policy File"
+  search-text-placeholder: "Search the University Policy File"
 
 
