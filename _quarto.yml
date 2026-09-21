@@ -37,9 +37,7 @@ website:
           href: ./Bylaws/vacancies.qmd
         - text: "7. Meetings"
           href: ./Bylaws/meetings.qmd
-        - text: "8. Order of Business (Agenda)"
-          href: ./Bylaws/order_of_business.qmd
-        - text: "Sections 9-14"
+        - text: "Sections 8-14"
           href: ./Bylaws/university_policy_file.qmd
       - text: "Resolutions"
         href: ./Resolutions/resolutions.qmd
