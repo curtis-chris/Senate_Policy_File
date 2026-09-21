@@ -1,7 +1,9 @@
 ---
-title: "Bylaws: University Policy File"
-description: "How the University Policy File is defined and maintained."
-toc: false
+title: "Bylaws: Sections 9-14"
+description: "These sections address the University Policy File, Parliamentary Procedure, Presidential Approval of Senate Actions, Interpretation of Senate Actions, Availability of Documents and Records, and Amendments."
+toc: true
+toc-location: right
+toc-depth: 3
 
 format:
   html:
@@ -16,3 +18,48 @@ format:
 3.	Printed copies of the Policy File shall be distributed upon request to the Secretary of the Senate. A full copy of the Policy File shall be maintained on the Senate Website.
 
 4.	The language of the Policy File shall clearly and concisely describe or narrate prescriptive or prohibitive policies and procedures. It may include the purposes for policies or procedures but shall avoid histories, contexts, and motivations. ``Shall” or “shall not” shall indicate prescription or prohibition; “may” shall indicate option or ability; “should” shall indicate advice or suggestion.
+
+## Parliamentary Procedure {#parliamentary-procedure .policy-heading}
+
+1.	All questions of parliamentary procedure not covered by these Bylaws shall be decided according to the latest edition of Robert’s Rules of Order Newly Revised.
+2.	Unless objections are raised immediately following a Senate vote, the terms “unanimous” or “without dissent” may be used in the minutes when all votes are affirmative and in spite of abstentions.
+
+## Presidential Approval of Senate Actions {#presidential-approval-of-senate-actions .policy-heading}
+1.  Draft minutes of Senate meetings where any official Senate action is taken shall be delivered to the President within fourteen (14) calendar days of the conclusion of the Senate meeting. 
+
+2.	Within thirty (30) calendar days of receiving the Senate Minutes, the President shall respond in writing to indicate approval, rejection, or postpone a decision on an action item. This written response is referred to as a Presidential Action Memo. 
+
+    1.	If any action item is postponed, the President shall include a rationale for postponement. The President shall have until the first Senate Executive Committee meeting of the next academic year to either approve or reject postponed items. 
+    
+    2.	If any action item is rejected, the President shall include a rationale. 
+    
+    3.	If an action item passed by the Senate is not approved by the President, and hence does not become policy, the Senate Chair, or designee, shall notify the Senate.
+    
+    4.	Approved actions shall be implemented as soon as is practical, which may precede their appearance in the university policy file.
+    
+    5.	Senate Resolutions do not require approval or rejection of the President. The President shall note receipt of a Senate resolution, and may choose to indicate what, if any, follow-up steps they plan to make based on specific resolved clauses in the resolution. 
+
+3.	The Senate Chair, or their designee, shall forward a copy of the President’s Action-Memo to all Vice Presidents, Human Resources Director (for emeritus status processing), Vice Chair of the Senate (for referrals updates), Secretary of the Senate (for policy file updates), SEC members, Senate Chairs, as well as to any other person/department/unit whose work may be impacted by the Senate action. 
+
+4.  The Senate Chair, or designee, shall ensure that the President is informed promptly by suitable means of Senate actions that would require implementation in fewer than 30 days after Senate action, in order that such legislation not be unduly delayed.
+
+## Interpretation of Senate Actions {#interpretation-of-senate-actions .policy-heading}
+
+Interpretations made by the Committee on Constitution and Bylaws shall be reported in writing to the Senate and shall be considered binding unless reversed or altered by action of the Senate. Such interpretations shall be considered binding on the university only after they have been approved by the President.
+
+
+## Availability of Documents and Records {#availability-of-documents-and-records .policy-heading}
+
+1. All agendas, minutes, resolutions, annual Senate University Policy Files versions, and presidential action memos of all regular and special Senate and Senate Executive Committee meetings shall be posted on the Senate website for a minimum of two years. 
+
+2.	If a Senate meeting or any Senate-related event is recorded in whole or in part, the recording shall be available in a manner consistent with the California Public Records Act.  
+
+3.	Confidential material shall be redacted or omitted from posted materials, but the agenda item in which confidential material is addressed shall be included in the table of contents and minutes.
+
+4.	Special Collections and University Archives will archive Senate agendas, minutes, resolutions, annual university policy file versions, and presidential action memos over two years old. These materials are publicly available in Special Collections & University Archives.  
+
+5.	The current Senate University Policy File shall be made available on the senate website.
+
+## Amendments {#amendments .policy-heading}
+
+Amendments to these Bylaws may be adopted at a regular business meeting of the Senate by a two-thirds vote of those present, provided the amendments have been presented at the previous meeting.

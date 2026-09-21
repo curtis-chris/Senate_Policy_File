@@ -41,16 +41,6 @@ website:
           href: ./Bylaws/order_of_business.qmd
         - text: "University Policy File"
           href: ./Bylaws/university_policy_file.qmd
-        - text: "Parliamentary Procedure" 
-          href: ./Bylaws/parliamentary_procedure.qmd
-        - text: "Presidential Approval of Senate Actions"
-          href: ./Bylaws/presidential_approval_of_senate_actions.qmd
-        - text: "Interpretation of Senate Actions"
-          href: ./Bylaws/interpretation_of_senate_actions.qmd
-        - text: "Availability of Documents and Records"
-          href: ./Bylaws/availability_of_documents_and_records.qmd
-        - text: "Amendments"
-          href: ./Bylaws/amendments.qmd
       - text: "Resolutions"
         href: ./Resolutions/resolutions.qmd
       - section: "University Policies"
