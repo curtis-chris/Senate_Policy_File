@@ -1,6 +1,6 @@
 ---
-title: "Bylaws"
-description: "These Bylaws describe the Definitions, Rules and Functions of Committees, Committee Charters, Rules for Elections, How to Assign Substitutes, How to Address Vacancies"
+title: "Bylaws: Definitions, Committees, Charters, Elections, Substitutes, Vacancies, Order of Business, Availability, Amendments"
+description: "These Bylaws describe the Definitions of said Bylaws, Rules and Functions of Committees, Committee Charters, Rules for Elections, How to Assign Substitutes, How to Address Vacancies, How Meetings Should Be Run, How Documents and Records Should Be Made Available, and How to Make Amendments"
 toc: true
 toc-location: right
 toc-depth: 3
