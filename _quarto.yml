@@ -55,7 +55,7 @@ website:
 format:
   html:
     theme:
-      - darkly
+      - lux
       - brand
     css: styles.css
     toc: true
