@@ -4,11 +4,13 @@ description: "These Bylaws describe the Definitions, Rules and Functions of Comm
 toc: true
 toc-location: right
 toc-depth: 3
+
+format:
+  html:
+    body-classes: "policy-hybrid policy-start-1"
 ---
 
-## 1. - Definitions {#definitions .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+## Definitions {#definitions .policy-heading}
 
 1. Faculty, defined as all members of Unit 3 in the current Collective Bargaining Agreement (CBA). Within the broader category of Faculty, the Senate identifies the following distinct subcategories: 
 
@@ -49,14 +51,10 @@ toc-depth: 3
         8.	Two individuals who are current members of the SDSU Alumni Association shall be chosen by the SDSU Alumni Association. These individuals shall be non-voting ex officio members of the Senate.
     
     3.	Excessive absences (as defined in Bylaws 4.0) of ex-officio senators (voting and nonvoting) shall be addressed by the Chair of the Senate.
-:::
 
+## Committees {#committees .policy-heading}
 
-## 2. - Committees {#committees .unnumbered}
-
-### 2.1 - Types of Committees {#types-of-committees .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Types of Committees {#types-of-committees .policy-heading}
 
 1. Senate Committee. A Senate Committee has certain functions to perform that are essential or useful for shared governance.
 
@@ -68,11 +66,7 @@ toc-depth: 3
 
 1. Senate Ad Hoc Committee. A Senate Ad Hoc Committee is established by a majority vote in the Senate. An Ad Hoc Committee performs a specific task and is dissolved when the task is completed and the final report is given, typically within the same academic year.
 
-:::
-
-### 2.2 - Subcommittees and Working Groups {#subcommittees-and-working-groups .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Subcommittees and Working Groups {#subcommittees-and-working-groups .policy-heading}
 
 1. A subcommittee or working group is established to help with the charge of the committee outside regular committee meetings.
 
@@ -84,11 +78,7 @@ toc-depth: 3
 
 1. Subcommittees and working groups may include nonmembers, however, at least one of its members shall be a member of the parent committee.
 
-:::
-
-### 2.3 - Committee Charters {#committee-charters .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee Charters {#committee-charters .policy-heading}
 
 1. All Senate and Senate-affiliated Campus Committees must establish and maintain a committee charter.
 
@@ -120,11 +110,7 @@ toc-depth: 3
 
     1. Charters for Senate-affiliated Campus Committees shall be maintained in the “UNIVERSITY POLICIES: Committees – Campus Committees with Senate-Appointed Members” section of the University Senate Policy File.
 
-:::
-
-### 2.4  Appointments {#appointments .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Appointments {#appointments .policy-heading}
 
 1. Unless otherwise stipulated, authorities for nomination to Senate and Senate Ad-Hoc Committees, as well as Senate-appointed members of Senate-affiliated Campus Committees, shall be as follows: (a) faculty by the Senate Committee on Committees and Elections, (b) administrators by the university administration, (c) staff by the Staff Affairs Committee, and (d) students by the Associated Students, who shall verify that nominated students are in good academic standing.
 
@@ -146,21 +132,13 @@ toc-depth: 3
 
 1. No member can occupy two seats on the same committee at the same time, including substitutes.
 
-:::
-
-### 2.5 - Times of Nomination and Appointment {#times-of-nomination-and-appointment .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Times of Nomination and Appointment {#times-of-nomination-and-appointment .policy-heading}
 
 1. The Committee on Committees and Elections shall be constituted for the upcoming academic year at the final regularly scheduled Senate meeting of the previous academic year. The committee shall have presented a full slate of nominees to Senate and Senate-appointed committees by the last Senate meeting of each academic year.
 
     1. All terms of office begin June 1, or at the time of appointment, and conclude May 31 in the final year of the term.
 
-:::
-
-### 2.6 - Referrals {#referrals .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Referrals {#referrals .policy-heading}
 
 1. Items shall be referred to committees by the Senate Chair, in consultation with the other Senate officers, by the Executive Committee, or by the Senate. An item referred to a committee by the Executive Committee shall be referred to another committee only through the Executive Committee.
 
@@ -170,21 +148,13 @@ toc-depth: 3
 
 1. A committee may use subcommittees or may invite non-voting members to participate in its work.
 
-:::
-
-### 2.7  Records and Reports {#records-and-reports .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Records and Reports {#records-and-reports .policy-heading}
 
 1. Each committee chair shall transmit records and pertinent information to the incoming chair.
 
 1. Each Senate and Senate-appointed committees shall submit a summary report of its activities annually by May 1.
 
-:::
-
-### 2.8 - Committee Operation {#committee-operation .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee Operation {#committee-operation .policy-heading}
 
 1. Rules: Senate rules shall apply to the operation of Senate or Senate appointed university committees. Exceptions to these rules may be noted in sec. 25 of Robert’s Rules of Order Newly Revised. Specific stipulations for a given committee regarding authority, tenure, duration, scope, and objectives shall be available in the Senate office.
 
@@ -224,13 +194,9 @@ toc-depth: 3
 
     1. Leave: As soon as a committee member is certain of being granted leave from duties at the university, that member shall in writing, so inform the chair of that committee, who in turn shall immediately inform the Secretary of the Senate and the Chair of the Committee on Committees and Elections. If the leave is one semester, the Committee on Committees and Elections, in consultation with the committee chair, shall recommend to the Senate a temporary replacement. If the leave is longer than one semester, the Committee on Committees and Elections shall recommend to the Senate a permanent replacement selected according to normal criteria and procedure.
 
-:::
+## Senate Core Committees: Charters {#senate-executive-committee-and-senate-core-committees-charters .policy-heading}
 
-## 3. - Senate Core Committees: Charters {#senate-executive-committee-and-senate-core-committees-charters .unnumbered}
-
-### 3.1 - Senate Executive Committee {#senate-executive-committee .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Senate Executive Committee {#senate-executive-committee .policy-heading}
 
 1. Membership (24): The Senate Executive Committee shall consist of 21 ex officio members and three elected members.
 
@@ -267,11 +233,8 @@ toc-depth: 3
     1. Challenge and Censure. A senator may challenge an action taken by the Senate Executive Committee on behalf of the Senate. The matter shall be immediately submitted to a vote. A simple majority vote of the Senate shall uphold the action of the Senate Executive Committee.
 
     1. The Senate Executive Committee shall be censured for its actions by a two-thirds majority vote of the Senate present and voting.
-:::
 
-### 3.2 - Committee on Academic Policy and Planning {#committee-on-academic-policy-and-planning .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Academic Policy and Planning {#committee-on-academic-policy-and-planning .policy-heading}
 
 1. Membership (18)
 
@@ -281,11 +244,7 @@ toc-depth: 3
 
 1. Functions: The Committee shall consider and make recommendations to the Senate and, within policy guidelines established by the Senate, to appropriate administrative officers concerning the following: (a) issues of academic philosophy, standards, and conduct; appropriateness of present and proposed programs, degrees, majors, options, and concentrations; (b) faculty-student relations; (c) the governance of the university; and (d) other matters of academic policy. All such recommendations made to administrative officers without prior Senate approval shall be submitted to the next meeting of the Senate for its consideration.
 
-:::
-
-### 3.3 - Committee on University Resources and Planning {#committee-on-university-resources-and-planning .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on University Resources and Planning {#committee-on-university-resources-and-planning .policy-heading}
 
 1. Membership (17)
 
@@ -304,11 +263,8 @@ toc-depth: 3
     1. The Chair of the Committee shall concurrently send to the Senate Chair all of its written communications sent to or received from administrative officers.
 
     1. All recommendations made to administrative officers without prior Senate approval shall be submitted to the next meeting of the Senate following the recommendation for the consideration of the Senate. The Committee shall inform faculty and students about resource issues by providing information reports to the Senate.
-:::
 
-### 3.4 - Committee on Faculty Affairs {#committee-on-faculty-affairs .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Faculty Affairs {#committee-on-faculty-affairs .policy-heading}
 
 1. Membership (15):
 
@@ -318,11 +274,7 @@ toc-depth: 3
 
 1. Functions: In conformance with the Unit 3 faculty Collective Bargaining Agreement (CBA), the Committee shall consider matters that involve particularly the individual or collective relationship of faculty to the university. Among its considerations shall be policies concerning the selection and evaluation of faculty, e.g., academic tenure, promotions, sabbaticals, academic privilege, and separation from the university.
 
-:::
-
-### 3.5 - Committee on Committees and Elections {#committee-on-committees-and-elections .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Committees and Elections {#committee-on-committees-and-elections .policy-heading}
 
 1. Membership (16):
 
@@ -370,11 +322,7 @@ toc-depth: 3
 
     1. The Committee shall conduct all referenda to amend the Constitution.
 
-:::
-
-### 3.6 - Committee on Constitution and Bylaws {#committee-on-constitution-and-bylaws .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Constitution and Bylaws {#committee-on-constitution-and-bylaws .policy-heading}
 
 1. Membership (10):
 
@@ -394,11 +342,7 @@ toc-depth: 3
 
     1. The Committee shall consider each year, as may be necessary, revision of the list of Senate and Senate-appointed university committees and of the membership and functions of each committee. It shall present its recommendations to the Senate in the first Senate meeting held after April 1.
 
-:::
-
-### 3.7 - Undergraduate Curriculum Committee {#undergraduate-curriculum-committee .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Undergraduate Curriculum Committee {#undergraduate-curriculum-committee .policy-heading}
 
 1. Membership (13): Provost and Senior Vice President or designee, Associate Vice President for Curriculum, Assessment and Accreditation or designee, one representative from each college, the Library, and SDSU Imperial Valley selected by the Committee on Committees and Elections, and two students named in accordance with procedures approved by the Associated Students.
 
@@ -412,11 +356,7 @@ toc-depth: 3
 
     1. A person, department, dean, or college curriculum committee may request the Committee to review a decision on a curriculum proposal. The Committee may agree to review the matter and inform all interested parties of the decision to review and of the date set for the review, or the Committee may decide not to review and promptly inform the appellant of its decision.
 
-:::
-
-### 3.8 - Committee on Diversity, Equity, and Inclusion {#committee-on-diversity-equity-and-inclusion .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Committee on Diversity, Equity, and Inclusion {#committee-on-diversity-equity-and-inclusion .policy-heading}
 
 1. Membership (23):
 
@@ -439,11 +379,8 @@ toc-depth: 3
     1. Subject to the approval of the President, the Committee shall advise the university administration regarding prohibited discrimination, equal opportunity, outreach, and related matters.
 
     1. Additional duties of the Committee shall be: (a) to advise the President regarding the university’s conformity or potential lack thereof with California State University policies and with legislation on nondiscrimination and equal opportunity in admissions and employment, (b) to recommend policies and procedures to recruit students for matriculation and to retain students for graduation, (c) to work with Enrollment Services, diverse student organizations, and interested community persons and groups to coordinate activities to enhance the recruitment of diverse students, (d) to review and assist in coordination of programs for advising and mentoring diverse students, (e) to assist departments in reviewing and modifying their curricula in order to incorporate multicultural materials, (f) to promote faculty and staff involvement in addressing the educational needs of diverse students, (g) to disseminate information concerning funding for equity programs within the university, (h) to advise the Office of Employee Relations and Compliance and the Chief Diversity Officer regarding policies, procedures, and outcomes of the university’s diversity programs.
-:::
 
-### 3.9 - Graduate Council {#graduate-council .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Graduate Council {#graduate-council .policy-heading}
 
 1. Representing the interests of the university in graduate studies, the Graduate Council shall be responsible to the university administration, the Dean of the College of Graduate Studies, the Senate, academic units, faculty members, and students. The university-wide jurisdiction of the Council shall derive from the President, the Senate, and the faculty.
 
@@ -487,11 +424,7 @@ toc-depth: 3
 
         1. The Council shall ensure that all stakeholders are informed of policy changes in a timely manner and publish policies online in collaboration with the College of Graduate Studies, Curriculum Services, the University Senate and others as appropriate.
 
-:::
-
-### 3.10 - Undergraduate Council {#undergraduate-council .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Undergraduate Council {#undergraduate-council .policy-heading}
 
 1. Membership (17): nine faculty, including one from each academic college, the Library and SDSU Imperial Valley; Associate Vice President for Faculty Advancement and Student Success or designee, who shall chair; Associate Dean (FASS); Assistant Dean of Undergraduate Studies (FASS); Assistant Dean of Student Success (FASS); Vice President of Student Affairs and Campus Diversity, or designee; Associate Vice President for Enrollment; and two undergraduate students.
 
@@ -534,11 +467,8 @@ toc-depth: 3
             1. The Subcommittee shall review course proposals identified as 296, 496, 580, and 596, and General Studies 250, 350, and 550. Courses numbered 550, 580, and 596 shall be forwarded to the Graduate Council for an additional review. Although the Subcommittee may apply different criteria to these, it shall retain the same standards of regular courses.
 
             1. The Subcommittee shall encourage experimental and interdisciplinary courses.
-:::
 
-### 3.11 - Lecturer Affairs Committee {#lecturer-affairs-committee .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Lecturer Affairs Committee {#lecturer-affairs-committee .policy-heading}
 
 1. Membership (13-20):
 
@@ -588,11 +518,7 @@ toc-depth: 3
 
 1. The Chair (or designee) shall report the business of the committee to the Senate.
 
-:::
-
-### 3.12 - Staff Affairs Committee {#staff-affairs-committee .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Staff Affairs Committee {#staff-affairs-committee .policy-heading}
 
 1. Membership sixteen (16): Fourteen (14) open seats for permanent Non–Management Personnel Plan (non-MPP) staff from across the institution, one (1) open seat for an auxiliary organization Staff Senator as defined in Bylaws 1.0, and one (1) non-voting ex officio staff emeritus appointed by SDSU Retirement Association.
 
@@ -644,11 +570,7 @@ toc-depth: 3
 
             1. Functions: The committee shall provide recommendations to the University President regarding the Staff Excellence Awards program as defined in University Policies: Staff Awards 1.0.
 
-:::
-
-### 3.13 - Sustainability Committee {#sustainability-committee .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+### Sustainability Committee {#sustainability-committee .policy-heading}
 
 1. Background/Purpose: Sustainability refers to practices designed to meet the needs of the present without compromising the ability of future generations to meet their own needs. It encompasses teaching, research, and practice in a variety of areas including but not limited to policy development, building design and construction, waste management and recycling, energy production and use, water use, and transportation.
 
@@ -668,14 +590,10 @@ toc-depth: 3
 
     1. Communicate these activities and outcomes to the Senate, campus, and the broader community.
 
-:::
-
 [^fn1]: CAL, SCI, and PSFA have historically held the largest FTEF and are thus accorded an additional member to assist with committee staffing. This is consistent with the CSU Academic Senate, which allots two senators to each campus, and three senators to the largest of the campuses.
 
 
-## 4. - Elections {#elections .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+## Elections {#elections .policy-heading}
 
 1. General Procedures
 
@@ -768,11 +686,8 @@ toc-depth: 3
     1. Nominations shall be made by petition endorsed by 10 staff for placement on the selection ballot. The period for submitting these requests shall be not less than two nor more than five weeks.
 
     1. To conduct the election, the Committee on Committees and Elections shall prepare a ballot with the names of all nominees in an order determined by lot. The electorate shall include all non-MPP staff, including probationary staff. The staff member with the highest vote count shall be elected.
-:::
 
-## 5. - Substitutes {#substitutes .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+## Substitutes {#substitutes .policy-heading}
 
 1. Senators and members of Senate and Senate-appointed committees may appoint a substitute if they cannot attend a meeting, unless specified otherwise. {#policy .policy-heading}
 
@@ -801,11 +716,8 @@ toc-depth: 3
     1. Committee members appointing substitutes for a committee meeting shall notify the committee chair in writing as soon as is reasonably possible.
 
     1. ASCSU Academic Senators appointing “Alternates” shall notify the appropriate member of the Academic Senate. ASCSU Academic Senators appointing a substitute for a Senate Executive Committee or Senate meeting shall notify the Senate Officers in writing via established procedure as soon as is reasonably possible.
-:::
 
-## 6. - Vacancies {#vacancies .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+## Vacancies {#vacancies .policy-heading}
 
 1. Determination
 
@@ -854,11 +766,8 @@ toc-depth: 3
     1. Should the Chair be unable to serve the full term, the Vice Chair shall become the Chair and an election shall be held to choose a replacement Vice Chair.
 
     1. Should the Vice Chair, Secretary or Treasurer of the Senate be unable to serve the full term, an election shall be held to choose a replacement.
-:::
 
-## 7. - Meetings {#meetings .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+## Meetings {#meetings .policy-heading}
 
 1. Meetings of the Senate
 
@@ -894,10 +803,8 @@ toc-depth: 3
 
 1. Senate business shall have priority over class scheduling. Senators’ class schedules shall permit their attendance at Senate meetings from 2:00 to 5:30 PM on Tuesdays and Thursdays.
 
-:::
+## Order of Business {#order-of-business .policy-heading}
 
-## 8. - Order of Business {#order-of-business .unnumbered}
-::: {.policy-numbering .policy-start-1}
 1.  The regular order of business of the Senate shall be the agenda prepared by the Senate Executive Committee.
 
 2.	Any member of the Senate may present to the Secretary of the Senate items for the agenda. Resolutions, if not forwarded by a committee, have to be endorsed by at least 5 voting senators (endorsees to be listed at the end of the text). The Secretary shall deliver all such items to the Executive Committee, which shall place them on the agenda for the next regular Senate meeting or refer them to a specific committee. Disposition of such items shall be indicated in the minutes of the Senate Executive Committee.
@@ -907,11 +814,9 @@ toc-depth: 3
 4.	Any	senator may bring an information item on the approved agenda of the University Senate to the floor for debate. To move it to action a simple majority vote is needed.
 
 5.	Any	member of the Senate may present an action item on the senate floor. A  two-thirds majority vote is needed to place it on the agenda.
-:::
 
-## 9. - University Policy File {#university-policy-file .unnumbered}
+## University Policy File {#university-policy-file .policy-heading}
 
-::: {.policy-numbering .policy-start-1}
 1. The Senate shall establish and maintain a University Policy File, containing the policies and regulations adopted by the Senate and approved by the President, and various references to executive orders and legislative codes.
 
 2.	The Secretary of the Senate shall review such additions and changes as are adopted by the Senate and approved by the President for the Policy File and shall reword or reorganize, without substantive change, such portions as are necessary to conform to the standard format of the Policy File. The Secretary of the Senate, with advice from the Committee on Constitution and Bylaws, shall ensure the accuracy of the Policy File.
@@ -919,20 +824,13 @@ toc-depth: 3
 3.	Printed copies of the Policy File shall be distributed upon request to the Secretary of the Senate. A full copy of the Policy File shall be maintained on the Senate Website.
 
 4.	The language of the Policy File shall clearly and concisely describe or narrate prescriptive or prohibitive policies and procedures. It may include the purposes for policies or procedures but shall avoid histories, contexts, and motivations. ``Shall” or “shall not” shall indicate prescription or prohibition; “may” shall indicate option or ability; “should” shall indicate advice or suggestion.
-:::
 
-## 10. - Parliamentary Procedure {#parliamentary-procedure .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+## Parliamentary Procedure {#parliamentary-procedure .policy-heading}
 
 1.	All questions of parliamentary procedure not covered by these Bylaws shall be decided according to the latest edition of Robert’s Rules of Order Newly Revised.
 2.	Unless objections are raised immediately following a Senate vote, the terms “unanimous” or “without dissent” may be used in the minutes when all votes are affirmative and in spite of abstentions.
 
-:::
-
-## 11. - Presidential Approval of Senate Actions {#presidential-approval-of-senate-actions .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+## Presidential Approval of Senate Actions {#presidential-approval-of-senate-actions .policy-heading}
 
 1.  Draft minutes of Senate meetings where any official Senate action is taken shall be delivered to the President within fourteen (14) calendar days of the conclusion of the Senate meeting. 
 
@@ -952,16 +850,12 @@ toc-depth: 3
 
 4.  The Senate Chair, or designee, shall ensure that the President is informed promptly by suitable means of Senate actions that would require implementation in fewer than 30 days after Senate action, in order that such legislation not be unduly delayed.
 
-:::
-
-## 12. - Interpretation of Senate Actions {#interpretation-of-senate-actions .unnumbered}
+## Interpretation of Senate Actions {#interpretation-of-senate-actions .policy-heading}
 
 Interpretations made by the Committee on Constitution and Bylaws shall be reported in writing to the Senate and shall be considered binding unless reversed or altered by action of the Senate. Such interpretations shall be considered binding on the university only after they have been approved by the President.
 
 
-## 13. - Availability of Documents and Records {#availability-of-documents-and-records .unnumbered}
-
-::: {.policy-numbering .policy-start-1}
+## Availability of Documents and Records {#availability-of-documents-and-records .policy-heading}
 
 1. All agendas, minutes, resolutions, annual Senate University Policy Files versions, and presidential action memos of all regular and special Senate and Senate Executive Committee meetings shall be posted on the Senate website for a minimum of two years. 
 
@@ -973,8 +867,6 @@ Interpretations made by the Committee on Constitution and Bylaws shall be report
 
 5.	The current Senate University Policy File shall be made available on the senate website.
 
-:::
-
-## 14. - Amendments {#amendments .unnumbered}
+## Amendments {#amendments .policy-heading}
 
 Amendments to these Bylaws may be adopted at a regular business meeting of the Senate by a two-thirds vote of those present, provided the amendments have been presented at the previous meeting.
