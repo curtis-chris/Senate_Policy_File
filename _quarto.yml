@@ -23,23 +23,23 @@ website:
         href: ./University_Senate_Constitution/constitution.qmd
       - section: "Bylaws"
         contents:
-        - text: "Definitions"
+        - text: "1. Definitions"
           href: ./Bylaws/definitions.qmd
-        - text: "Committees"
+        - text: "2. Committees"
           href: ./Bylaws/committees.qmd
-        - text: "Senate Core Committee Charters"
+        - text: "3. Senate Core Committee Charters"
           href: ./Bylaws/committee_charters.qmd
-        - text: "Elections"
+        - text: "4. Elections"
           href: ./Bylaws/elections.qmd
-        - text: "Substitutes" 
+        - text: "5. Substitutes" 
           href: ./Bylaws/substitutes.qmd
-        - text: "Vacancies" 
+        - text: "6. Vacancies" 
           href: ./Bylaws/vacancies.qmd
-        - text: "Meetings"
+        - text: "7. Meetings"
           href: ./Bylaws/meetings.qmd
-        - text: "Order of Business (Agenda)"
+        - text: "8. Order of Business (Agenda)"
           href: ./Bylaws/order_of_business.qmd
-        - text: "University Policy File"
+        - text: "Sections 9-14"
           href: ./Bylaws/university_policy_file.qmd
       - text: "Resolutions"
         href: ./Resolutions/resolutions.qmd
