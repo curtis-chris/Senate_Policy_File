@@ -706,3 +706,7 @@ section.level3.policy-heading
 #title-block-header .description {
   display: none;
 }
+
+body.policy-hybrid #title-block-header h1.title {
+  display: none;
+}
