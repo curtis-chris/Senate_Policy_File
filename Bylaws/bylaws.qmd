@@ -823,7 +823,7 @@ format:
 
 3.	Printed copies of the Policy File shall be distributed upon request to the Secretary of the Senate. A full copy of the Policy File shall be maintained on the Senate Website.
 
-4.	The language of the Policy File shall clearly and concisely describe or narrate prescriptive or prohibitive policies and procedures. It may include the purposes for policies or procedures but shall avoid histories, contexts, and motivations. ``Shall” or “shall not” shall indicate prescription or prohibition; “may” shall indicate option or ability; “should” shall indicate advice or suggestion.
+4.	The language of the Policy File shall clearly and concisely describe or narrate prescriptive or prohibitive policies and procedures. It may include the purposes for policies or procedures but shall avoid histories, contexts, and motivations. "Shall” or “shall not” shall indicate prescription or prohibition; “may” shall indicate option or ability; “should” shall indicate advice or suggestion.
 
 ## Parliamentary Procedure {#parliamentary-procedure .policy-heading}
 
