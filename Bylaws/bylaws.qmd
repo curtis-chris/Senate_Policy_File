@@ -556,7 +556,7 @@ format:
 
     1. Auxiliary Review Panels: The Staff Affairs Committee shall coordinate filling any review panel vacancy with the Senate Committee on Committees and Elections. The announcement shall explain the duties of the Auxiliary Review Panel and ask for nominations for each vacancy. All permanent non-MPP staff employees within the unit or division (e.g., individual colleges, Academic Affairs, Business and Financial Affairs, Research and Innovation, Information Technology, Student Affairs and Campus Diversity, University Relations and Development, etc.) in which the search is conducted shall be eligible to serve; only non-MPP staff from within the unit or division shall be eligible to nominate and vote. When nominating someone other than oneself, agreement to serve must be obtained from the nominee prior to the nomination. Each nomination shall include contact information, department and position name, and a statement of qualifications and interest. The nomination period shall be at least five (5) business days. Once nominations are closed, a second voting announcement shall be made with the list of nominees (including their statements). Voting shall be open for five (5) business days. Selection shall be determined by the plurality of received votes.
 
-    1. Subcommittees {subcommittees .policy-toc-heading}
+    1. Subcommittees 
 
         1. Staff Honors and Awards Subcommittee
 
